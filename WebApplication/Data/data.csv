@@ -1,0 +1,784 @@
+Id;Meldetext;Station;Gruppe;Kategorienname;Anzahl;Anzahl;Dauer;Dauer;Unproduktive Dauer
+015003;S120 Plug connectors: start Pressing finished;S120 Plug connectors;M01;Message;547;100;1h 17m 56.1s;27,64620068;0.0s
+015000;S120 Plug connectors: start WPC in Position;S120 Plug connectors;M01;Message;547;100;40m 31.6s;14,37623696;0.0s
+015001;S120 Plug connectors: start Plug connectors inserted;S120 Plug connectors;M01;Message;546;99,81718464;3h 59m 18.1s;84,88915836;0.0s
+015002;S120 Plug connectors: start Check finished;S120 Plug connectors;M01;Message;546;99,81718464;20m 26.1s;7,249020707;0.0s
+005000;S110 Circuit board: start WPC in position;S110 Circuit board;M01;Message;506;92,50457038;1h 1m 22.8s;21,77389789;0.0s
+005001;S110 Circuit board: start Circuit board inserted;S110 Circuit board;M01;Message;505;92,32175503;4h 41m 54.0s;100;0.0s
+005002;S110 Circuit board: start Check finished;S110 Circuit board;M01;Message;505;92,32175503;20m 24.3s;7,238254475;0.0s
+035000;S210 Insert cap: start WPC in position;S210 Insert cap;M02;Message;492;89,94515539;42m 31.5s;15,08534796;0.0s
+035001;S210 Insert cap: start Cap inserted;S210 Insert cap;M02;Message;491;89,76234004;3h 57m 17.9s;84,17843922;0.0s
+065003;S240 Insert sheet metal: start Sheet metal in position;S240 Insert sheet metal;M02;Message;491;89,76234004;45m 58.7s;16,31039858;0.0s
+065001;S240 Insert sheet metal: start Sheet metal ready;S240 Insert sheet metal;M02;Message;491;89,76234004;33m 56.3s;12,03920186;0.0s
+065002;S240 Insert sheet metal: start Glue applied;S240 Insert sheet metal;M02;Message;491;89,76234004;33m 24.2s;11,84948914;0.0s
+065000;S240 Insert sheet metal: start WPC in position;S240 Insert sheet metal;M02;Message;491;89,76234004;15m 38.2s;5,54715193;0.0s
+035002;S210 Insert cap: start Check finished;S210 Insert cap;M02;Message;491;89,76234004;14m 0.4s;4,968772901;0.0s
+065004;S240 Insert sheet metal: start Drying phase finished;S240 Insert sheet metal;M02;Message;490;89,57952468;1h 46m 2.8s;37,61849876;0.0s
+019001;Plug connectors inserted interrupted manually;S120 Plug connectors;M01;Error;28;5,118829982;16m 51.3s;5,979243816;0.0s
+009001;Circuit board inserted interrupted manually;S110 Circuit board;M01;Error;24;4,387568556;18m 46.4s;6,659485237;0.0s
+012002;S120 Plug connectors: Force exceeded its lower limit of 8 N.;S120 Plug connectors;M01;Warning;22;4,021937843;52m 16.4s;18,54320638;0.0s
+069003;Sheet metal in position interrupted manually;S240 Insert sheet metal;M02;Error;20;3,65630713;2m 50.5s;1,007822221;0.0s
+012012;S120 Plug connectors: Travel exceeded its lower limit of 150 mm.;S120 Plug connectors;M01;Warning;19;3,473491773;48m 37.3s;17,24808953;0.0s
+141008;Fault LineController response: Batch not OK;S410 Check Cap;M04;Warning;18;3,290676417;12m 6.7s;4,29657807;0.0s
+031011;Tape control fault OPC communication;S210 Insert cap;M02;Warning;18;3,290676417;10m 50.2s;3,843917419;0.0s
+039001;Cap inserted interrupted manually;S210 Insert cap;M02;Error;18;3,290676417;10m 50.1s;3,843332105;0.0s
+081013;Presence of component by data / sensor system implausible;S260 Camera check;M02;Warning;18;3,290676417;10m 8.5s;3,597636159;0.0s
+151022;Contract condition invalid (station type/loading);S420 Plastic laser welding;M04;Warning;17;3,10786106;12m 32.0s;4,445750398;0.0s
+121021;Start condition invalid (station type/loading);S340 Soldering;M03;Warning;17;3,10786106;11m 18.3s;4,010117066;0.0s
+131014;Maximum number of NOK parts in a row reached;S350 Camera check;M03;Info;17;3,10786106;11m 10.5s;3,964226074;0.0s
+001005;Fault LineController: Receive;S110 Circuit board;M01;Warning;16;2,925045704;10m 48.4s;3,833689202;0.0s
+111026;Turntable nest not recognized;S330 Turn assembly;M03;Warning;16;2,925045704;10m 47.2s;3,826222013;0.0s
+071035;Screw unit not ready;S250 Laser welding;M02;Warning;16;2,925045704;10m 19.3s;3,661529993;0.0s
+141033;Screwdriver program number not in the permissible range;S410 Check Cap;M04;Warning;16;2,925045704;9m 58.0s;3,535640161;0.0s
+011013;Presence of component by data / sensor system implausible;S120 Plug connectors;M01;Warning;16;2,925045704;9m 56.6s;3,527055554;0.0s
+131027;Part expected in turntable nest;S350 Camera check;M03;Info;16;2,925045704;8m 45.9s;3,109082154;0.0s
+012001;S120 Plug connectors: Force exceeded its upper limit of 10 N.;S120 Plug connectors;M01;Warning;15;2,742230347;14m 28.4s;5,134446356;0.0s
+181009;Door1 not locked;S450 Packaging;M04;Warning;15;2,742230347;11m 43.0s;4,156315525;0.0s
+011033;Screwdriver program number not in the permissible range;S120 Plug connectors;M01;Warning;15;2,742230347;10m 41.1s;3,790405519;0.0s
+131024;HW inputs for enabling rotary table NOK;S350 Camera check;M03;Info;15;2,742230347;10m 7.2s;3,589731462;0.0s
+001020;Tape control life bit timeout;S110 Circuit board;M01;Warning;15;2,742230347;10m 2.7s;3,56345145;0.0s
+141034;Acknowledgement program number Screwdriving unit faulty;S410 Check Cap;M04;Info;15;2,742230347;9m 41.4s;3,437289653;0.0s
+141018;Sensors gripper 1 faulty;S410 Check Cap;M04;Warning;15;2,742230347;9m 16.8s;3,292013507;0.0s
+131029;Station parameter invalid;S350 Camera check;M03;Info;15;2,742230347;8m 50.6s;3,137165407;0.0s
+171032;Position set specification outside the permissible range;S440 Check DMC;M04;Warning;15;2,742230347;8m 46.6s;3,113457229;0.0s
+151031;Screwdriver Maintenance required;S420 Plastic laser welding;M04;Info;15;2,742230347;8m 34.4s;3,041410382;0.0s
+171009;Door1 not locked;S440 Check DMC;M04;Warning;15;2,742230347;8m 32.9s;3,032275935;0.0s
+141011;Tape control fault OPC communication;S410 Check Cap;M04;Warning;15;2,742230347;8m 31.0s;3,02113723;0.0s
+031023;Idle operation manually active;S210 Insert cap;M02;Warning;15;2,742230347;8m 8.8s;2,890180587;0.0s
+111033;Screwdriver program number not in the permissible range;S330 Turn assembly;M03;Warning;14;2,559414991;10m 31.5s;3,733842892;0.0s
+131019;Data gripper 1 not plausible;S350 Camera check;M03;Warning;14;2,559414991;10m 26.7s;3,705056079;0.0s
+111030;"Sensor has not detected any part or nest not ""EMPTY""";S330 Turn assembly;M03;Info;14;2,559414991;9m 50.1s;3,488608102;0.0s
+181019;Data gripper 1 not plausible;S450 Packaging;M04;Warning;14;2,559414991;9m 35.3s;3,401325352;0.0s
+001025;Nest number has changed unexpectedly;S110 Circuit board;M01;Info;14;2,559414991;9m 24.3s;3,336343661;0.0s
+041020;Tape control life bit timeout;S220 Check snap-in;M02;Warning;14;2,559414991;9m 16.0s;3,287088591;0.0s
+171014;Maximum number of NOK parts in a row reached;S440 Check DMC;M04;Info;14;2,559414991;9m 8.7s;3,244337012;0.0s
+071010;Door2 not locked;S250 Laser welding;M02;Warning;14;2,559414991;8m 41.9s;3,08564594;0.0s
+141028;"Turntable does not report ""in position""";S410 Check Cap;M04;Warning;14;2,559414991;8m 33.5s;3,035823293;0.0s
+161022;Contract condition invalid (station type/loading);S430 Clean assembly;M04;Warning;14;2,559414991;8m 26.9s;2,996973808;0.0s
+021013;Presence of component by data / sensor system implausible;S130 Check DMC;M01;Warning;14;2,559414991;8m 15.6s;2,93027756;0.0s
+131013;Presence of component by data / sensor system implausible;S350 Camera check;M03;Warning;14;2,559414991;8m 11.1s;2,90374332;0.0s
+041033;Screwdriver program number not in the permissible range;S220 Check snap-in;M02;Warning;13;2,376599634;10m 30.7s;3,728598714;0.0s
+171030;"Sensor has not detected any part or nest not ""EMPTY""";S440 Check DMC;M04;Info;13;2,376599634;9m 46.1s;3,465278309;0.0s
+181022;Contract condition invalid (station type/loading);S450 Packaging;M04;Warning;13;2,376599634;9m 33.2s;3,38862581;0.0s
+011009;Door1 not locked;S120 Plug connectors;M01;Warning;13;2,376599634;9m 22.5s;3,325654288;0.0s
+101019;Data gripper 1 not plausible;S320 Fluxing;M03;Warning;13;2,376599634;9m 20.6s;3,314231794;0.0s
+111028;"Turntable does not report ""in position""";S330 Turn assembly;M03;Warning;13;2,376599634;9m 18.9s;3,304169121;0.0s
+131021;Start condition invalid (station type/loading);S350 Camera check;M03;Warning;13;2,376599634;8m 29.2s;3,010370998;0.0s
+161033;Screwdriver program number not in the permissible range;S430 Clean assembly;M04;Warning;13;2,376599634;8m 25.3s;2,987744764;0.0s
+101033;Screwdriver program number not in the permissible range;S320 Fluxing;M03;Warning;13;2,376599634;8m 24.7s;2,983913617;0.0s
+041001;Module off due to open door 1;S220 Check snap-in;M02;Info;13;2,376599634;8m 24.3s;2,981483677;0.0s
+041027;Part expected in turntable nest;S220 Check snap-in;M02;Info;13;2,376599634;8m 23.2s;2,974838292;0.0s
+131012;"Turntable does not report ""in position""";S350 Camera check;M03;Info;13;2,376599634;8m 21.4s;2,964219866;0.0s
+041032;Position set specification outside the permissible range;S220 Check snap-in;M02;Warning;13;2,376599634;8m 9.2s;2,892243967;0.0s
+121004;Fault LineController: Send;S340 Soldering;M03;Warning;13;2,376599634;8m 7.3s;2,88096928;0.0s
+101014;Maximum number of NOK parts in a row reached;S320 Fluxing;M03;Info;13;2,376599634;8m 3.3s;2,857503505;0.0s
+161006;Fault LineController response: general error - see LC;S430 Clean assembly;M04;Warning;13;2,376599634;8m 1.6s;2,84743492;0.0s
+041019;Data gripper 1 not plausible;S220 Check snap-in;M02;Warning;13;2,376599634;7m 41.2s;2,726972546;0.0s
+111005;Fault LineController: Receive;S330 Turn assembly;M03;Warning;13;2,376599634;7m 39.8s;2,718246044;0.0s
+061026;Turntable nest not recognized;S240 Insert sheet metal;M02;Warning;13;2,376599634;7m 36.6s;2,699628326;0.0s
+121011;Tape control fault OPC communication;S340 Soldering;M03;Warning;13;2,376599634;7m 31.2s;2,667619329;0.0s
+061028;"Turntable does not report ""in position""";S240 Insert sheet metal;M02;Warning;13;2,376599634;7m 27.1s;2,643591889;0.0s
+031030;"Sensor has not detected any part or nest not ""EMPTY""";S210 Insert cap;M02;Info;13;2,376599634;7m 22.6s;2,616898018;0.0s
+061030;"Sensor has not detected any part or nest not ""EMPTY""";S240 Insert sheet metal;M02;Info;13;2,376599634;7m 20.9s;2,606527908;0.0s
+081015;Turntable: Coding not plausible;S260 Camera check;M02;Warning;13;2,376599634;7m 19.5s;2,598445843;0.0s
+121009;Door1 not locked;S340 Soldering;M03;Warning;13;2,376599634;7m 7.0s;2,524382915;0.0s
+051005;Fault LineController: Receive;S230 Move assembly;M02;Warning;13;2,376599634;6m 59.8s;2,482104317;0.0s
+031012;"Turntable does not report ""in position""";S210 Insert cap;M02;Info;13;2,376599634;6m 40.4s;2,367465522;0.0s
+091030;"Sensor has not detected any part or nest not ""EMPTY""";S310 Turn assembly;M03;Info;13;2,376599634;6m 18.1s;2,235273216;0.0s
+181033;Screwdriver program number not in the permissible range;S450 Packaging;M04;Warning;12;2,193784278;9m 28.0s;3,358343194;0.0s
+151024;HW inputs for enabling rotary table NOK;S420 Plastic laser welding;M04;Info;12;2,193784278;9m 21.8s;3,321645773;0.0s
+151006;Fault LineController response: general error - see LC;S420 Plastic laser welding;M04;Warning;12;2,193784278;9m 10.3s;3,253808459;0.0s
+111001;Module off due to open door 1;S330 Turn assembly;M03;Info;12;2,193784278;8m 41.8s;3,085190696;0.0s
+161021;Start condition invalid (station type/loading);S430 Clean assembly;M04;Warning;12;2,193784278;8m 26.9s;2,996760966;0.0s
+001028;"Turntable does not report ""in position""";S110 Circuit board;M01;Warning;12;2,193784278;8m 23.6s;2,977622968;0.0s
+121002;Module off due to OFF button on the panel;S340 Soldering;M03;Info;12;2,193784278;8m 22.0s;2,96793868;0.0s
+101025;Nest number has changed unexpectedly;S320 Fluxing;M03;Info;12;2,193784278;8m 12.7s;2,912954627;0.0s
+131006;Fault LineController response: general error - see LC;S350 Camera check;M03;Warning;12;2,193784278;8m 4.3s;2,863096507;0.0s
+181029;Station parameter invalid;S450 Packaging;M04;Info;12;2,193784278;7m 45.3s;2,751041371;0.0s
+141027;Part expected in turntable nest;S410 Check Cap;M04;Info;12;2,193784278;7m 45.3s;2,750940863;0.0s
+101016;Turntable: Error of the coding sensors;S320 Fluxing;M03;Warning;12;2,193784278;7m 38.0s;2,70807695;0.0s
+021025;Nest number has changed unexpectedly;S130 Check DMC;M01;Info;12;2,193784278;7m 37.9s;2,707373391;0.0s
+061020;Tape control life bit timeout;S240 Insert sheet metal;M02;Warning;12;2,193784278;7m 37.2s;2,702803211;0.0s
+101034;Acknowledgement program number Screwdriving unit faulty;S320 Fluxing;M03;Info;12;2,193784278;7m 30.7s;2,664444444;0.0s
+101032;Position set specification outside the permissible range;S320 Fluxing;M03;Warning;12;2,193784278;7m 23.8s;2,624063682;0.0s
+141012;"Turntable does not report ""in position""";S410 Check Cap;M04;Info;12;2,193784278;7m 23.6s;2,622520581;0.0s
+011017;Selection of parameter set faulty;S120 Plug connectors;M01;Warning;12;2,193784278;7m 21.7s;2,611476473;0.0s
+101009;Door1 not locked;S320 Fluxing;M03;Warning;12;2,193784278;7m 20.6s;2,605020281;0.0s
+061022;Contract condition invalid (station type/loading);S240 Insert sheet metal;M02;Warning;12;2,193784278;7m 18.5s;2,592368036;0.0s
+011031;Screwdriver Maintenance required;S120 Plug connectors;M01;Info;12;2,193784278;7m 17.6s;2,586940578;0.0s
+161019;Data gripper 1 not plausible;S430 Clean assembly;M04;Warning;12;2,193784278;7m 16.3s;2,579366968;0.0s
+111032;Position set specification outside the permissible range;S330 Turn assembly;M03;Warning;12;2,193784278;7m 9.6s;2,540020853;0.0s
+021035;Screw unit not ready;S130 Check DMC;M01;Warning;12;2,193784278;7m 7.3s;2,526203892;0.0s
+051007;Fault LineController response: Material not OK;S230 Move assembly;M02;Warning;12;2,193784278;7m 1.2s;2,490411047;0.0s
+081034;Acknowledgement program number Screwdriving unit faulty;S260 Camera check;M02;Info;12;2,193784278;7m 0.3s;2,48490673;0.0s
+161000;Setup selected (key switch);S430 Clean assembly;M04;Info;12;2,193784278;6m 56.3s;2,461541463;0.0s
+151020;Tape control life bit timeout;S420 Plastic laser welding;M04;Warning;12;2,193784278;6m 53.7s;2,446169577;0.0s
+061005;Fault LineController: Receive;S240 Insert sheet metal;M02;Warning;12;2,193784278;6m 44.9s;2,393869692;0.0s
+061031;Screwdriver Maintenance required;S240 Insert sheet metal;M02;Info;12;2,193784278;6m 41.0s;2,370711355;0.0s
+061012;"Turntable does not report ""in position""";S240 Insert sheet metal;M02;Info;12;2,193784278;6m 40.5s;2,367767047;0.0s
+081022;Contract condition invalid (station type/loading);S260 Camera check;M02;Warning;12;2,193784278;6m 40.1s;2,365289809;0.0s
+091012;"Turntable does not report ""in position""";S310 Turn assembly;M03;Info;12;2,193784278;6m 35.7s;2,339364532;0.0s
+111016;Turntable: Error of the coding sensors;S330 Turn assembly;M03;Warning;12;2,193784278;6m 33.9s;2,328976685;0.0s
+161027;Part expected in turntable nest;S430 Clean assembly;M04;Info;12;2,193784278;6m 32.5s;2,320557621;0.0s
+091023;Idle operation manually active;S310 Turn assembly;M03;Warning;12;2,193784278;6m 30.2s;2,306799783;0.0s
+021032;Position set specification outside the permissible range;S130 Check DMC;M01;Warning;12;2,193784278;6m 23.9s;2,269995941;0.0s
+021011;Tape control fault OPC communication;S130 Check DMC;M01;Warning;12;2,193784278;6m 16.7s;2,227350783;0.0s
+141014;Maximum number of NOK parts in a row reached;S410 Check Cap;M04;Info;12;2,193784278;6m 15.6s;2,220545767;0.0s
+181025;Nest number has changed unexpectedly;S450 Packaging;M04;Info;12;2,193784278;6m 15.3s;2,219085438;0.0s
+161016;Turntable: Error of the coding sensors;S430 Clean assembly;M04;Warning;12;2,193784278;6m 10.6s;2,190925325;0.0s
+011023;Idle operation manually active;S120 Plug connectors;M01;Warning;12;2,193784278;5m 52.1s;2,08200369;0.0s
+061017;Selection of parameter set faulty;S240 Insert sheet metal;M02;Warning;12;2,193784278;5m 47.5s;2,054777715;0.0s
+001014;Maximum number of NOK parts in a row reached;S110 Circuit board;M01;Info;11;2,010968921;9m 8.7s;3,243905417;0.0s
+011034;Acknowledgement program number Screwdriving unit faulty;S120 Plug connectors;M01;Info;11;2,010968921;8m 48.5s;3,124814687;0.0s
+151023;Idle operation manually active;S420 Plastic laser welding;M04;Warning;11;2,010968921;8m 9.4s;2,893254964;0.0s
+001001;Module off due to open door 1;S110 Circuit board;M01;Info;11;2,010968921;8m 3.9s;2,860761163;0.0s
+151034;Acknowledgement program number Screwdriving unit faulty;S420 Plastic laser welding;M04;Info;11;2,010968921;8m 3.1s;2,856090474;0.0s
+101021;Start condition invalid (station type/loading);S320 Fluxing;M03;Warning;11;2,010968921;7m 58.1s;2,826641488;0.0s
+141031;Screwdriver Maintenance required;S410 Check Cap;M04;Info;11;2,010968921;7m 53.6s;2,800243231;0.0s
+111035;Screw unit not ready;S330 Turn assembly;M03;Warning;11;2,010968921;7m 46.5s;2,758000106;0.0s
+101011;Tape control fault OPC communication;S320 Fluxing;M03;Warning;11;2,010968921;7m 39.3s;2,715396333;0.0s
+111000;Setup selected (key switch);S330 Turn assembly;M03;Info;11;2,010968921;7m 32.2s;2,673395611;0.0s
+121025;Nest number has changed unexpectedly;S340 Soldering;M03;Info;11;2,010968921;7m 27.5s;2,64583855;0.0s
+121016;Turntable: Error of the coding sensors;S340 Soldering;M03;Warning;11;2,010968921;7m 25.8s;2,635781789;0.0s
+121033;Screwdriver program number not in the permissible range;S340 Soldering;M03;Warning;11;2,010968921;7m 21.7s;2,611192684;0.0s
+161007;Fault LineController response: Material not OK;S430 Clean assembly;M04;Warning;11;2,010968921;7m 19.1s;2,59582671;0.0s
+011026;Turntable nest not recognized;S120 Plug connectors;M01;Warning;11;2,010968921;7m 18.2s;2,59070669;0.0s
+081006;Fault LineController response: general error - see LC;S260 Camera check;M02;Warning;11;2,010968921;7m 18.1s;2,589926271;0.0s
+041034;Acknowledgement program number Screwdriving unit faulty;S220 Check snap-in;M02;Info;11;2,010968921;7m 14.2s;2,567075372;0.0s
+111007;Fault LineController response: Material not OK;S330 Turn assembly;M03;Warning;11;2,010968921;7m 11.5s;2,550858032;0.0s
+141009;Door1 not locked;S410 Check Cap;M04;Warning;11;2,010968921;7m 11.0s;2,548179777;0.0s
+071011;Tape control fault OPC communication;S250 Laser welding;M02;Warning;11;2,010968921;7m 4.9s;2,512339634;0.0s
+161032;Position set specification outside the permissible range;S430 Clean assembly;M04;Warning;11;2,010968921;7m 4.0s;2,507059982;0.0s
+091024;HW inputs for enabling rotary table NOK;S310 Turn assembly;M03;Info;11;2,010968921;7m 2.9s;2,500272703;0.0s
+071015;Turntable: Coding not plausible;S250 Laser welding;M02;Warning;11;2,010968921;6m 59.4s;2,479502921;0.0s
+051020;Tape control life bit timeout;S230 Move assembly;M02;Warning;11;2,010968921;6m 56.4s;2,462150426;0.0s
+031013;Presence of component by data / sensor system implausible;S210 Insert cap;M02;Warning;11;2,010968921;6m 56.2s;2,460831991;0.0s
+171025;Nest number has changed unexpectedly;S440 Check DMC;M04;Info;11;2,010968921;6m 56.0s;2,459590416;0.0s
+171029;Station parameter invalid;S440 Check DMC;M04;Info;11;2,010968921;6m 55.1s;2,454464483;0.0s
+121032;Position set specification outside the permissible range;S340 Soldering;M03;Warning;11;2,010968921;6m 54.7s;2,451892649;0.0s
+121031;Screwdriver Maintenance required;S340 Soldering;M03;Info;11;2,010968921;6m 53.0s;2,441942309;0.0s
+051014;Maximum number of NOK parts in a row reached;S230 Move assembly;M02;Info;11;2,010968921;6m 47.3s;2,407964529;0.0s
+041008;Fault LineController response: Batch not OK;S220 Check snap-in;M02;Warning;11;2,010968921;6m 46.5s;2,40305735;0.0s
+011021;Start condition invalid (station type/loading);S120 Plug connectors;M01;Warning;11;2,010968921;6m 42.9s;2,38195648;0.0s
+181032;Position set specification outside the permissible range;S450 Packaging;M04;Warning;11;2,010968921;6m 40.8s;2,369493428;0.0s
+041022;Contract condition invalid (station type/loading);S220 Check snap-in;M02;Warning;11;2,010968921;6m 40.7s;2,369032272;0.0s
+081012;"Turntable does not report ""in position""";S260 Camera check;M02;Info;11;2,010968921;6m 37.1s;2,347830894;0.0s
+071028;"Turntable does not report ""in position""";S250 Laser welding;M02;Warning;11;2,010968921;6m 36.0s;2,34136879;0.0s
+061008;Fault LineController response: Batch not OK;S240 Insert sheet metal;M02;Warning;11;2,010968921;6m 33.8s;2,328143055;0.0s
+181024;HW inputs for enabling rotary table NOK;S450 Packaging;M04;Info;11;2,010968921;6m 29.4s;2,301969464;0.0s
+121015;Turntable: Coding not plausible;S340 Soldering;M03;Warning;11;2,010968921;6m 23.4s;2,266903827;0.0s
+061023;Idle operation manually active;S240 Insert sheet metal;M02;Warning;11;2,010968921;6m 21.3s;2,254292969;0.0s
+081005;Fault LineController: Receive;S260 Camera check;M02;Warning;11;2,010968921;6m 20.5s;2,249580894;0.0s
+091022;Contract condition invalid (station type/loading);S310 Turn assembly;M03;Warning;11;2,010968921;6m 18.8s;2,239334941;0.0s
+071030;"Sensor has not detected any part or nest not ""EMPTY""";S250 Laser welding;M02;Info;11;2,010968921;6m 17.7s;2,23329852;0.0s
+031035;Screw unit not ready;S210 Insert cap;M02;Warning;11;2,010968921;6m 17.3s;2,230732597;0.0s
+021018;Sensors gripper 1 faulty;S130 Check DMC;M01;Warning;11;2,010968921;6m 15.5s;2,22029154;0.0s
+081023;Idle operation manually active;S260 Camera check;M02;Warning;11;2,010968921;6m 10.6s;2,191280061;0.0s
+131008;Fault LineController response: Batch not OK;S350 Camera check;M03;Warning;11;2,010968921;6m 10.1s;2,187910071;0.0s
+181012;"Turntable does not report ""in position""";S450 Packaging;M04;Info;11;2,010968921;6m 7.5s;2,172567746;0.0s
+051031;Screwdriver Maintenance required;S230 Move assembly;M02;Info;11;2,010968921;6m 6.5s;2,166891973;0.0s
+031014;Maximum number of NOK parts in a row reached;S210 Insert cap;M02;Info;11;2,010968921;6m 3.7s;2,150266687;0.0s
+021000;Setup selected (key switch);S130 Check DMC;M01;Info;11;2,010968921;6m 0.9s;2,133534981;0.0s
+121019;Data gripper 1 not plausible;S340 Soldering;M03;Warning;11;2,010968921;5m 58.7s;2,120924122;0.0s
+171008;Fault LineController response: Batch not OK;S440 Check DMC;M04;Warning;11;2,010968921;5m 58.2s;2,117991639;0.0s
+021012;"Turntable does not report ""in position""";S130 Check DMC;M01;Info;11;2,010968921;5m 56.1s;2,10514429;0.0s
+021021;Start condition invalid (station type/loading);S130 Check DMC;M01;Warning;11;2,010968921;5m 55.2s;2,099876463;0.0s
+031032;Position set specification outside the permissible range;S210 Insert cap;M02;Warning;11;2,010968921;5m 51.9s;2,080720729;0.0s
+131009;Door1 not locked;S350 Camera check;M03;Warning;11;2,010968921;5m 49.4s;2,066028753;0.0s
+031021;Start condition invalid (station type/loading);S210 Insert cap;M02;Warning;11;2,010968921;5m 47.9s;2,056699201;0.0s
+091001;Module off due to open door 1;S310 Turn assembly;M03;Info;11;2,010968921;5m 44.8s;2,038749568;0.0s
+121022;Contract condition invalid (station type/loading);S340 Soldering;M03;Warning;11;2,010968921;5m 43.4s;2,030176786;0.0s
+021024;HW inputs for enabling rotary table NOK;S130 Check DMC;M01;Info;11;2,010968921;5m 39.2s;2,005185647;0.0s
+121018;Sensors gripper 1 faulty;S340 Soldering;M03;Warning;11;2,010968921;5m 38.4s;2,000881519;0.0s
+061006;Fault LineController response: general error - see LC;S240 Insert sheet metal;M02;Warning;11;2,010968921;5m 27.9s;1,938903257;0.0s
+161009;Door1 not locked;S430 Clean assembly;M04;Warning;11;2,010968921;5m 24.2s;1,916744093;0.0s
+031007;Fault LineController response: Material not OK;S210 Insert cap;M02;Warning;11;2,010968921;5m 17.5s;1,877285644;0.0s
+131002;Module off due to OFF button on the panel;S350 Camera check;M03;Info;11;2,010968921;5m 4.4s;1,799521639;0.0s
+012011;S120 Plug connectors: Travel exceeded its upper limit of 220 mm.;S120 Plug connectors;M01;Warning;10;1,828153565;10m 45.7s;3,81728267;0.0s
+152022;S420 Plastic laser welding: Speed exceeded its lower limit of 250 mm/min.;S420 Plastic laser welding;M04;Warning;10;1,828153565;8m 58.5s;3,183848641;0.0s
+041002;Module off due to OFF button on the panel;S220 Check snap-in;M02;Info;10;1,828153565;8m 21.4s;2,964137095;0.0s
+101026;Turntable nest not recognized;S320 Fluxing;M03;Warning;10;1,828153565;7m 59.1s;2,832459156;0.0s
+101029;Station parameter invalid;S320 Fluxing;M03;Info;10;1,828153565;7m 43.8s;2,742291221;0.0s
+101020;Tape control life bit timeout;S320 Fluxing;M03;Warning;10;1,828153565;7m 31.9s;2,671769739;0.0s
+141026;Turntable nest not recognized;S410 Check Cap;M04;Warning;10;1,828153565;7m 26.2s;2,638164431;0.0s
+041023;Idle operation manually active;S220 Check snap-in;M02;Warning;10;1,828153565;7m 22.7s;2,617560192;0.0s
+121012;"Turntable does not report ""in position""";S340 Soldering;M03;Info;10;1,828153565;7m 20.9s;2,606581118;0.0s
+161031;Screwdriver Maintenance required;S430 Clean assembly;M04;Info;10;1,828153565;7m 18.5s;2,592373948;0.0s
+161034;Acknowledgement program number Screwdriving unit faulty;S430 Clean assembly;M04;Info;10;1,828153565;7m 10.2s;2,543716017;0.0s
+101008;Fault LineController response: Batch not OK;S320 Fluxing;M03;Warning;10;1,828153565;7m 8.0s;2,530348389;0.0s
+041017;Selection of parameter set faulty;S220 Check snap-in;M02;Warning;10;1,828153565;7m 7.8s;2,529343304;0.0s
+011000;Setup selected (key switch);S120 Plug connectors;M01;Info;10;1,828153565;7m 5.4s;2,514911468;0.0s
+141003;Safety fault in the drive;S410 Check Cap;M04;Warning;10;1,828153565;7m 3.9s;2,506415545;0.0s
+101024;HW inputs for enabling rotary table NOK;S320 Fluxing;M03;Info;10;1,828153565;7m 3.6s;2,504358077;0.0s
+081018;Sensors gripper 1 faulty;S260 Camera check;M02;Warning;10;1,828153565;6m 59.1s;2,477563698;0.0s
+001033;Screwdriver program number not in the permissible range;S110 Circuit board;M01;Warning;10;1,828153565;6m 55.7s;2,457716228;0.0s
+131016;Turntable: Error of the coding sensors;S350 Camera check;M03;Warning;10;1,828153565;6m 53.1s;2,44254536;0.0s
+071018;Sensors gripper 1 faulty;S250 Laser welding;M02;Warning;10;1,828153565;6m 50.7s;2,428284979;0.0s
+051018;Sensors gripper 1 faulty;S230 Move assembly;M02;Warning;10;1,828153565;6m 47.8s;2,41086745;0.0s
+121008;Fault LineController response: Batch not OK;S340 Soldering;M03;Warning;10;1,828153565;6m 44.6s;2,392332503;0.0s
+071000;Setup selected (key switch);S250 Laser welding;M02;Info;10;1,828153565;6m 43.6s;2,386012293;0.0s
+021019;Data gripper 1 not plausible;S130 Check DMC;M01;Warning;10;1,828153565;6m 41.8s;2,375263798;0.0s
+081033;Screwdriver program number not in the permissible range;S260 Camera check;M02;Warning;10;1,828153565;6m 39.9s;2,364107356;0.0s
+121028;"Turntable does not report ""in position""";S340 Soldering;M03;Warning;10;1,828153565;6m 39.7s;2,36294264;0.0s
+111004;Fault LineController: Send;S330 Turn assembly;M03;Warning;10;1,828153565;6m 37.7s;2,351082639;0.0s
+171004;Fault LineController: Send;S440 Check DMC;M04;Warning;10;1,828153565;6m 32.9s;2,322703773;0.0s
+021016;Turntable: Error of the coding sensors;S130 Check DMC;M01;Warning;10;1,828153565;6m 31.0s;2,311712874;0.0s
+021003;Safety fault in the drive;S130 Check DMC;M01;Warning;10;1,828153565;6m 29.0s;2,300124837;0.0s
+081004;Fault LineController: Send;S260 Camera check;M02;Warning;10;1,828153565;6m 26.6s;2,285415125;0.0s
+001034;Acknowledgement program number Screwdriving unit faulty;S110 Circuit board;M01;Info;10;1,828153565;6m 21.9s;2,258171414;0.0s
+121003;Safety fault in the drive;S340 Soldering;M03;Warning;10;1,828153565;6m 18.5s;2,23792191;0.0s
+051023;Idle operation manually active;S230 Move assembly;M02;Warning;10;1,828153565;6m 18.4s;2,237040983;0.0s
+021014;Maximum number of NOK parts in a row reached;S130 Check DMC;M01;Info;10;1,828153565;6m 15.5s;2,220078698;0.0s
+171020;Tape control life bit timeout;S440 Check DMC;M04;Warning;10;1,828153565;6m 15.0s;2,217270373;0.0s
+041018;Sensors gripper 1 faulty;S220 Check snap-in;M02;Warning;10;1,828153565;6m 13.1s;2,205818318;0.0s
+051002;Module off due to OFF button on the panel;S230 Move assembly;M02;Info;10;1,828153565;6m 12.8s;2,204091937;0.0s
+071009;Door1 not locked;S250 Laser welding;M02;Warning;10;1,828153565;6m 9.9s;2,186698057;0.0s
+001024;HW inputs for enabling rotary table NOK;S110 Circuit board;M01;Info;10;1,828153565;6m 9.7s;2,186018147;0.0s
+081010;Door2 not locked;S260 Camera check;M02;Warning;10;1,828153565;6m 9.7s;2,185799393;0.0s
+031020;Tape control life bit timeout;S210 Insert cap;M02;Warning;10;1,828153565;6m 7.1s;2,170291525;0.0s
+141019;Data gripper 1 not plausible;S410 Check Cap;M04;Warning;10;1,828153565;6m 5.8s;2,16296623;0.0s
+041025;Nest number has changed unexpectedly;S220 Check snap-in;M02;Info;10;1,828153565;6m 4.8s;2,156728792;0.0s
+181016;Turntable: Error of the coding sensors;S450 Packaging;M04;Warning;10;1,828153565;6m 3.8s;2,1508993;0.0s
+061033;Screwdriver program number not in the permissible range;S240 Insert sheet metal;M02;Warning;10;1,828153565;6m 1.5s;2,137490285;0.0s
+051022;Contract condition invalid (station type/loading);S230 Move assembly;M02;Warning;10;1,828153565;6m 0.8s;2,132926018;0.0s
+061010;Door2 not locked;S240 Insert sheet metal;M02;Warning;10;1,828153565;5m 56.8s;2,109738119;0.0s
+081035;Screw unit not ready;S260 Camera check;M02;Warning;10;1,828153565;5m 56.3s;2,106427252;0.0s
+011005;Fault LineController: Receive;S120 Plug connectors;M01;Warning;10;1,828153565;5m 55.8s;2,103571628;0.0s
+151009;Door1 not locked;S420 Plastic laser welding;M04;Warning;10;1,828153565;5m 54.9s;2,098540292;0.0s
+131003;Safety fault in the drive;S350 Camera check;M03;Warning;10;1,828153565;5m 53.7s;2,091256383;0.0s
+061016;Turntable: Error of the coding sensors;S240 Insert sheet metal;M02;Warning;10;1,828153565;5m 52.9s;2,08649701;0.0s
+171026;Turntable nest not recognized;S440 Check DMC;M04;Warning;10;1,828153565;5m 51.0s;2,075198674;0.0s
+091031;Screwdriver Maintenance required;S310 Turn assembly;M03;Info;10;1,828153565;5m 48.5s;2,060187436;0.0s
+051021;Start condition invalid (station type/loading);S230 Move assembly;M02;Warning;10;1,828153565;5m 44.0s;2,034102529;0.0s
+091035;Screw unit not ready;S310 Turn assembly;M03;Warning;10;1,828153565;5m 43.5s;2,030886257;0.0s
+071027;Part expected in turntable nest;S250 Laser welding;M02;Info;10;1,828153565;5m 41.5s;2,019280483;0.0s
+121001;Module off due to open door 1;S340 Soldering;M03;Info;10;1,828153565;5m 40.0s;2,010098738;0.0s
+171034;Acknowledgement program number Screwdriving unit faulty;S440 Check DMC;M04;Info;10;1,828153565;5m 39.4s;2,006716923;0.0s
+051025;Nest number has changed unexpectedly;S230 Move assembly;M02;Info;10;1,828153565;5m 35.5s;1,983576322;0.0s
+171003;Safety fault in the drive;S440 Check DMC;M04;Warning;10;1,828153565;5m 35.0s;1,980478296;0.0s
+181020;Tape control life bit timeout;S450 Packaging;M04;Warning;10;1,828153565;5m 34.2s;1,975914029;0.0s
+101017;Selection of parameter set faulty;S320 Fluxing;M03;Warning;10;1,828153565;5m 31.9s;1,962014296;0.0s
+081024;HW inputs for enabling rotary table NOK;S260 Camera check;M02;Info;10;1,828153565;5m 31.5s;1,959950916;0.0s
+111009;Door1 not locked;S330 Turn assembly;M03;Warning;10;1,828153565;5m 30.1s;1,951898413;0.0s
+061035;Screw unit not ready;S240 Insert sheet metal;M02;Warning;10;1,828153565;5m 29.3s;1,947133129;0.0s
+141035;Screw unit not ready;S410 Check Cap;M04;Warning;10;1,828153565;5m 24.5s;1,918730613;0.0s
+161025;Nest number has changed unexpectedly;S430 Clean assembly;M04;Info;10;1,828153565;5m 23.4s;1,912073404;0.0s
+031015;Turntable: Coding not plausible;S210 Insert cap;M02;Warning;10;1,828153565;5m 21.8s;1,902684729;0.0s
+131030;"Sensor has not detected any part or nest not ""EMPTY""";S350 Camera check;M03;Info;10;1,828153565;5m 18.1s;1,880525565;0.0s
+151027;Part expected in turntable nest;S420 Plastic laser welding;M04;Info;10;1,828153565;5m 14.8s;1,861168813;0.0s
+011011;Tape control fault OPC communication;S120 Plug connectors;M01;Warning;10;1,828153565;5m 12.2s;1,845619559;0.0s
+151017;Selection of parameter set faulty;S420 Plastic laser welding;M04;Warning;10;1,828153565;5m 7.6s;1,818352199;0.0s
+061003;Safety fault in the drive;S240 Insert sheet metal;M02;Warning;10;1,828153565;5m 3.3s;1,793432007;0.0s
+061032;Position set specification outside the permissible range;S240 Insert sheet metal;M02;Warning;10;1,828153565;4m 55.6s;1,747759769;0.0s
+081026;Turntable nest not recognized;S260 Camera check;M02;Warning;10;1,828153565;4m 16.9s;1,518718671;0.0s
+011027;Part expected in turntable nest;S120 Plug connectors;M01;Info;9;1,645338208;7m 14.4s;2,568127755;0.0s
+151018;Sensors gripper 1 faulty;S420 Plastic laser welding;M04;Warning;9;1,645338208;7m 8.8s;2,535054551;0.0s
+141017;Selection of parameter set faulty;S410 Check Cap;M04;Warning;9;1,645338208;7m 7.1s;2,525186983;0.0s
+181027;Part expected in turntable nest;S450 Packaging;M04;Info;9;1,645338208;6m 47.8s;2,410843801;0.0s
+151025;Nest number has changed unexpectedly;S420 Plastic laser welding;M04;Info;9;1,645338208;6m 40.4s;2,367542381;0.0s
+011019;Data gripper 1 not plausible;S120 Plug connectors;M01;Warning;9;1,645338208;6m 37.5s;2,350113028;0.0s
+001018;Sensors gripper 1 faulty;S110 Circuit board;M01;Warning;9;1,645338208;6m 36.9s;2,346281881;0.0s
+011022;Contract condition invalid (station type/loading);S120 Plug connectors;M01;Warning;9;1,645338208;6m 33.0s;2,323685209;0.0s
+001017;Selection of parameter set faulty;S110 Circuit board;M01;Warning;9;1,645338208;6m 31.1s;2,31232775;0.0s
+091034;Acknowledgement program number Screwdriving unit faulty;S310 Turn assembly;M03;Info;9;1,645338208;6m 30.7s;2,309868248;0.0s
+131028;"Turntable does not report ""in position""";S350 Camera check;M03;Warning;9;1,645338208;6m 29.8s;2,30475414;0.0s
+011024;HW inputs for enabling rotary table NOK;S120 Plug connectors;M01;Info;9;1,645338208;6m 28.5s;2,297150969;0.0s
+151021;Start condition invalid (station type/loading);S420 Plastic laser welding;M04;Warning;9;1,645338208;6m 27.8s;2,29305377;0.0s
+111012;"Turntable does not report ""in position""";S330 Turn assembly;M03;Info;9;1,645338208;6m 27.6s;2,29130374;0.0s
+051010;Door2 not locked;S230 Move assembly;M02;Warning;9;1,645338208;6m 26.8s;2,286597578;0.0s
+001013;Presence of component by data / sensor system implausible;S110 Circuit board;M01;Warning;9;1,645338208;6m 26.1s;2,282813729;0.0s
+101023;Idle operation manually active;S320 Fluxing;M03;Warning;9;1,645338208;6m 26.0s;2,281991924;0.0s
+091015;Turntable: Coding not plausible;S310 Turn assembly;M03;Warning;9;1,645338208;6m 19.2s;2,24217874;0.0s
+171011;Tape control fault OPC communication;S440 Check DMC;M04;Warning;9;1,645338208;6m 18.7s;2,238714154;0.0s
+011008;Fault LineController response: Batch not OK;S120 Plug connectors;M01;Warning;9;1,645338208;6m 18.1s;2,235149059;0.0s
+141016;Turntable: Error of the coding sensors;S410 Check Cap;M04;Warning;9;1,645338208;6m 17.3s;2,230632089;0.0s
+011035;Screw unit not ready;S120 Plug connectors;M01;Warning;9;1,645338208;6m 16.5s;2,225961401;0.0s
+131034;Acknowledgement program number Screwdriving unit faulty;S350 Camera check;M03;Info;9;1,645338208;6m 15.9s;2,222313534;0.0s
+061004;Fault LineController: Send;S240 Insert sheet metal;M02;Warning;9;1,645338208;6m 15.3s;2,218606544;0.0s
+111031;Screwdriver Maintenance required;S330 Turn assembly;M03;Info;9;1,645338208;6m 14.0s;2,211086145;0.0s
+151003;Safety fault in the drive;S420 Plastic laser welding;M04;Warning;9;1,645338208;6m 10.8s;2,192291058;0.0s
+081020;Tape control life bit timeout;S260 Camera check;M02;Warning;9;1,645338208;6m 10.2s;2,188725963;0.0s
+121000;Setup selected (key switch);S340 Soldering;M03;Info;9;1,645338208;6m 9.8s;2,186573899;0.0s
+111024;HW inputs for enabling rotary table NOK;S330 Turn assembly;M03;Info;9;1,645338208;6m 5.6s;2,161541374;0.0s
+041026;Turntable nest not recognized;S220 Check snap-in;M02;Warning;9;1,645338208;6m 4.9s;2,157491474;0.0s
+141025;Nest number has changed unexpectedly;S410 Check Cap;M04;Info;9;1,645338208;6m 3.9s;2,151738841;0.0s
+091003;Safety fault in the drive;S310 Turn assembly;M03;Warning;9;1,645338208;6m 2.1s;2,140753855;0.0s
+171007;Fault LineController response: Material not OK;S440 Check DMC;M04;Warning;9;1,645338208;5m 59.6s;2,125979108;0.0s
+171012;"Turntable does not report ""in position""";S440 Check DMC;M04;Info;9;1,645338208;5m 57.9s;2,115987382;0.0s
+091002;Module off due to OFF button on the panel;S310 Turn assembly;M03;Info;9;1,645338208;5m 57.3s;2,112469585;0.0s
+001011;Tape control fault OPC communication;S110 Circuit board;M01;Warning;9;1,645338208;5m 57.0s;2,110648608;0.0s
+101013;Presence of component by data / sensor system implausible;S320 Fluxing;M03;Warning;9;1,645338208;5m 57.0s;2,110435766;0.0s
+031029;Station parameter invalid;S210 Insert cap;M02;Info;9;1,645338208;5m 56.8s;2,10940112;0.0s
+141010;Door2 not locked;S410 Check Cap;M04;Warning;9;1,645338208;5m 54.4s;2,095217599;0.0s
+031034;Acknowledgement program number Screwdriving unit faulty;S210 Insert cap;M02;Info;9;1,645338208;5m 53.2s;2,088459882;0.0s
+161011;Tape control fault OPC communication;S430 Clean assembly;M04;Warning;9;1,645338208;5m 53.2s;2,088353461;0.0s
+011004;Fault LineController: Send;S120 Plug connectors;M01;Warning;9;1,645338208;5m 49.9s;2,068429132;0.0s
+181030;"Sensor has not detected any part or nest not ""EMPTY""";S450 Packaging;M04;Info;9;1,645338208;5m 49.2s;2,064343758;0.0s
+131035;Screw unit not ready;S350 Camera check;M03;Warning;9;1,645338208;5m 44.8s;2,038808691;0.0s
+181004;Fault LineController: Send;S450 Packaging;M04;Warning;9;1,645338208;5m 41.8s;2,02081176;0.0s
+091013;Presence of component by data / sensor system implausible;S310 Turn assembly;M03;Warning;9;1,645338208;5m 41.8s;2,020516147;0.0s
+161035;Screw unit not ready;S430 Clean assembly;M04;Warning;9;1,645338208;5m 41.4s;2,018328609;0.0s
+051033;Screwdriver program number not in the permissible range;S230 Move assembly;M02;Warning;9;1,645338208;5m 41.2s;2,017542278;0.0s
+071002;Module off due to OFF button on the panel;S250 Laser welding;M02;Info;9;1,645338208;5m 38.4s;2,000810571;0.0s
+011025;Nest number has changed unexpectedly;S120 Plug connectors;M01;Info;9;1,645338208;5m 33.9s;1,97419356;0.0s
+061019;Data gripper 1 not plausible;S240 Insert sheet metal;M02;Warning;9;1,645338208;5m 33.3s;1,970681675;0.0s
+001030;"Sensor has not detected any part or nest not ""EMPTY""";S110 Circuit board;M01;Info;9;1,645338208;5m 32.4s;1,965070937;0.0s
+161004;Fault LineController: Send;S430 Clean assembly;M04;Warning;9;1,645338208;5m 30.4s;1,953559759;0.0s
+131020;Tape control life bit timeout;S350 Camera check;M03;Warning;9;1,645338208;5m 27.3s;1,935160794;0.0s
+071024;HW inputs for enabling rotary table NOK;S250 Laser welding;M02;Info;9;1,645338208;5m 26.5s;1,930537404;0.0s
+071025;Nest number has changed unexpectedly;S250 Laser welding;M02;Info;9;1,645338208;5m 26.0s;1,927202887;0.0s
+021022;Contract condition invalid (station type/loading);S130 Check DMC;M01;Warning;9;1,645338208;5m 23.6s;1,913167173;0.0s
+031001;Module off due to open door 1;S210 Insert cap;M02;Info;9;1,645338208;5m 23.4s;1,912268509;0.0s
+171006;Fault LineController response: general error - see LC;S440 Check DMC;M04;Warning;9;1,645338208;5m 22.8s;1,908703414;0.0s
+021033;Screwdriver program number not in the permissible range;S130 Check DMC;M01;Warning;9;1,645338208;5m 22.1s;1,904310602;0.0s
+101003;Safety fault in the drive;S320 Fluxing;M03;Warning;9;1,645338208;5m 19.1s;1,886656582;0.0s
+181028;"Turntable does not report ""in position""";S450 Packaging;M04;Warning;9;1,645338208;5m 18.6s;1,883871906;0.0s
+181015;Turntable: Coding not plausible;S450 Packaging;M04;Warning;9;1,645338208;5m 17.9s;1,879272165;0.0s
+151016;Turntable: Error of the coding sensors;S420 Plastic laser welding;M04;Warning;9;1,645338208;5m 12.0s;1,844768193;0.0s
+031031;Screwdriver Maintenance required;S210 Insert cap;M02;Info;9;1,645338208;5m 10.3s;1,834664135;0.0s
+021010;Door2 not locked;S130 Check DMC;M01;Warning;9;1,645338208;5m 8.4s;1,823300764;0.0s
+051011;Tape control fault OPC communication;S230 Move assembly;M02;Warning;9;1,645338208;5m 7.5s;1,817896955;0.0s
+111020;Tape control life bit timeout;S330 Turn assembly;M03;Warning;9;1,645338208;5m 7.3s;1,816566695;0.0s
+111002;Module off due to OFF button on the panel;S330 Turn assembly;M03;Info;9;1,645338208;5m 3.3s;1,792905816;0.0s
+001026;Turntable nest not recognized;S110 Circuit board;M01;Warning;9;1,645338208;5m 0.3s;1,775452813;0.0s
+171002;Module off due to OFF button on the panel;S440 Check DMC;M04;Info;9;1,645338208;4m 60.0s;1,773489941;0.0s
+081017;Selection of parameter set faulty;S260 Camera check;M02;Warning;9;1,645338208;4m 56.7s;1,753884875;0.0s
+151014;Maximum number of NOK parts in a row reached;S420 Plastic laser welding;M04;Info;9;1,645338208;4m 48.8s;1,707296236;0.0s
+141005;Fault LineController: Receive;S410 Check Cap;M04;Warning;9;1,645338208;4m 48.3s;1,704623893;0.0s
+181018;Sensors gripper 1 faulty;S450 Packaging;M04;Warning;9;1,645338208;4m 48.2s;1,703683843;0.0s
+151019;Data gripper 1 not plausible;S420 Plastic laser welding;M04;Warning;9;1,645338208;4m 45.3s;1,686709734;0.0s
+061001;Module off due to open door 1;S240 Insert sheet metal;M02;Info;9;1,645338208;4m 42.0s;1,667293859;0.0s
+031027;Part expected in turntable nest;S210 Insert cap;M02;Info;9;1,645338208;4m 41.3s;1,663344467;0.0s
+181035;Screw unit not ready;S450 Packaging;M04;Warning;9;1,645338208;4m 40.6s;1,659010778;0.0s
+031024;HW inputs for enabling rotary table NOK;S210 Insert cap;M02;Info;9;1,645338208;4m 38.8s;1,648043528;0.0s
+021029;Station parameter invalid;S130 Check DMC;M01;Info;9;1,645338208;4m 38.7s;1,64775974;0.0s
+021015;Turntable: Coding not plausible;S130 Check DMC;M01;Warning;9;1,645338208;4m 38.5s;1,646624585;0.0s
+051000;Setup selected (key switch);S230 Move assembly;M02;Info;9;1,645338208;4m 35.1s;1,626398731;0.0s
+131005;Fault LineController: Receive;S350 Camera check;M03;Warning;9;1,645338208;4m 34.9s;1,625393646;0.0s
+051028;"Turntable does not report ""in position""";S230 Move assembly;M02;Warning;9;1,645338208;4m 34.8s;1,624447684;0.0s
+121007;Fault LineController response: Material not OK;S340 Soldering;M03;Warning;9;1,645338208;4m 31.3s;1,603938041;0.0s
+111022;Contract condition invalid (station type/loading);S330 Turn assembly;M03;Warning;9;1,645338208;4m 29.4s;1,59299444;0.0s
+021006;Fault LineController response: general error - see LC;S130 Check DMC;M01;Warning;9;1,645338208;4m 23.0s;1,554807129;0.0s
+161018;Sensors gripper 1 faulty;S430 Clean assembly;M04;Warning;9;1,645338208;4m 20.5s;1,540434415;0.0s
+152001;S420 Plastic laser welding: Current exceeded its upper limit of 100 A.;S420 Plastic laser welding;M04;Warning;8;1,462522852;7m 23.1s;2,619659046;0.0s
+001019;Data gripper 1 not plausible;S110 Circuit board;M01;Warning;8;1,462522852;6m 44.9s;2,394052972;0.0s
+071032;Position set specification outside the permissible range;S250 Laser welding;M02;Warning;8;1,462522852;6m 38.0s;2,352968651;0.0s
+041028;"Turntable does not report ""in position""";S220 Check snap-in;M02;Warning;8;1,462522852;6m 35.9s;2,340529248;0.0s
+001002;Module off due to OFF button on the panel;S110 Circuit board;M01;Info;8;1,462522852;6m 35.2s;2,336491172;0.0s
+051001;Module off due to open door 1;S230 Move assembly;M02;Info;8;1,462522852;6m 26.3s;2,284126252;0.0s
+151000;Setup selected (key switch);S420 Plastic laser welding;M04;Info;8;1,462522852;6m 20.0s;2,246808043;0.0s
+131010;Door2 not locked;S350 Camera check;M03;Warning;8;1,462522852;5m 56.8s;2,109241489;0.0s
+151032;Position set specification outside the permissible range;S420 Plastic laser welding;M04;Warning;8;1,462522852;5m 55.7s;2,102726174;0.0s
+111025;Nest number has changed unexpectedly;S330 Turn assembly;M03;Info;8;1,462522852;5m 55.4s;2,101283582;0.0s
+151030;"Sensor has not detected any part or nest not ""EMPTY""";S420 Plastic laser welding;M04;Info;8;1,462522852;5m 52.5s;2,08430356;0.0s
+001029;Station parameter invalid;S110 Circuit board;M01;Info;8;1,462522852;5m 46.1s;2,046287704;0.0s
+171019;Data gripper 1 not plausible;S440 Check DMC;M04;Warning;8;1,462522852;5m 45.9s;2,045193936;0.0s
+101030;"Sensor has not detected any part or nest not ""EMPTY""";S320 Fluxing;M03;Info;8;1,462522852;5m 44.0s;2,033806916;0.0s
+151010;Door2 not locked;S420 Plastic laser welding;M04;Warning;8;1,462522852;5m 43.6s;2,031631202;0.0s
+181021;Start condition invalid (station type/loading);S450 Packaging;M04;Warning;8;1,462522852;5m 43.1s;2,028675071;0.0s
+001023;Idle operation manually active;S110 Circuit board;M01;Warning;8;1,462522852;5m 41.8s;2,020959566;0.0s
+041035;Screw unit not ready;S220 Check snap-in;M02;Warning;8;1,462522852;5m 35.7s;1,984463162;0.0s
+181014;Maximum number of NOK parts in a row reached;S450 Packaging;M04;Info;8;1,462522852;5m 34.9s;1,980046701;0.0s
+021009;Door1 not locked;S130 Check DMC;M01;Warning;8;1,462522852;5m 34.5s;1,977516252;0.0s
+001032;Position set specification outside the permissible range;S110 Circuit board;M01;Warning;8;1,462522852;5m 34.1s;1,975157259;0.0s
+081002;Module off due to OFF button on the panel;S260 Camera check;M02;Info;8;1,462522852;5m 30.0s;1,950869679;0.0s
+131026;Turntable nest not recognized;S350 Camera check;M03;Warning;8;1,462522852;5m 29.4s;1,947653408;0.0s
+071031;Screwdriver Maintenance required;S250 Laser welding;M02;Info;8;1,462522852;5m 23.1s;1,910352936;0.0s
+041003;Safety fault in the drive;S220 Check snap-in;M02;Warning;8;1,462522852;5m 17.2s;1,875571088;0.0s
+001006;Fault LineController response: general error - see LC;S110 Circuit board;M01;Warning;8;1,462522852;5m 15.1s;1,863143509;0.0s
+013028;Turntable: Coding not plausible;S120 Plug connectors;M01;Warning;8;1,462522852;5m 14.0s;1,856391704;0.0s
+091029;Station parameter invalid;S310 Turn assembly;M03;Info;8;1,462522852;5m 13.5s;1,853571554;0.0s
+071006;Fault LineController response: general error - see LC;S250 Laser welding;M02;Warning;8;1,462522852;5m 12.6s;1,848138184;0.0s
+111003;Safety fault in the drive;S330 Turn assembly;M03;Warning;8;1,462522852;5m 12.5s;1,847600168;0.0s
+181000;Setup selected (key switch);S450 Packaging;M04;Info;8;1,462522852;5m 12.3s;1,8461694;0.0s
+021005;Fault LineController: Receive;S130 Check DMC;M01;Warning;8;1,462522852;5m 10.0s;1,832512071;0.0s
+141007;Fault LineController response: Material not OK;S410 Check Cap;M04;Warning;8;1,462522852;5m 9.9s;1,832240106;0.0s
+181031;Screwdriver Maintenance required;S450 Packaging;M04;Info;8;1,462522852;5m 9.2s;1,828101522;0.0s
+111006;Fault LineController response: general error - see LC;S330 Turn assembly;M03;Warning;8;1,462522852;5m 6.6s;1,812629128;0.0s
+101035;Screw unit not ready;S320 Fluxing;M03;Warning;8;1,462522852;5m 6.3s;1,811003255;0.0s
+111034;Acknowledgement program number Screwdriving unit faulty;S330 Turn assembly;M03;Info;8;1,462522852;5m 6.2s;1,810364731;0.0s
+151028;"Turntable does not report ""in position""";S420 Plastic laser welding;M04;Warning;8;1,462522852;5m 5.6s;1,80675825;0.0s
+111029;Station parameter invalid;S330 Turn assembly;M03;Info;8;1,462522852;5m 4.7s;1,801508159;0.0s
+041031;Screwdriver Maintenance required;S220 Check snap-in;M02;Info;8;1,462522852;5m 3.9s;1,796754699;0.0s
+081009;Door1 not locked;S260 Camera check;M02;Warning;8;1,462522852;5m 1.3s;1,781081288;0.0s
+171015;Turntable: Coding not plausible;S440 Check DMC;M04;Warning;8;1,462522852;5m 0.8s;1,778462155;0.0s
+091005;Fault LineController: Receive;S310 Turn assembly;M03;Warning;8;1,462522852;4m 58.1s;1,762428096;0.0s
+121020;Tape control life bit timeout;S340 Soldering;M03;Warning;8;1,462522852;4m 57.6s;1,759584297;0.0s
+081030;"Sensor has not detected any part or nest not ""EMPTY""";S260 Camera check;M02;Info;8;1,462522852;4m 55.9s;1,749462501;0.0s
+081031;Screwdriver Maintenance required;S260 Camera check;M02;Info;8;1,462522852;4m 55.7s;1,748321434;0.0s
+151013;Presence of component by data / sensor system implausible;S420 Plastic laser welding;M04;Warning;8;1,462522852;4m 55.1s;1,744431165;0.0s
+011032;Position set specification outside the permissible range;S120 Plug connectors;M01;Warning;8;1,462522852;4m 54.5s;1,74117942;0.0s
+051016;Turntable: Error of the coding sensors;S230 Move assembly;M02;Warning;8;1,462522852;4m 54.0s;1,73817599;0.0s
+021023;Idle operation manually active;S130 Check DMC;M01;Warning;8;1,462522852;4m 53.4s;1,734403965;0.0s
+161008;Fault LineController response: Batch not OK;S430 Clean assembly;M04;Warning;8;1,462522852;4m 53.3s;1,734090615;0.0s
+041007;Fault LineController response: Material not OK;S220 Check snap-in;M02;Warning;8;1,462522852;4m 53.1s;1,732648023;0.0s
+171027;Part expected in turntable nest;S440 Check DMC;M04;Info;8;1,462522852;4m 50.9s;1,72015541;0.0s
+131001;Module off due to open door 1;S350 Camera check;M03;Info;8;1,462522852;4m 48.4s;1,705386575;0.0s
+131033;Screwdriver program number not in the permissible range;S350 Camera check;M03;Warning;8;1,462522852;4m 46.3s;1,692621997;0.0s
+141004;Fault LineController: Send;S410 Check Cap;M04;Warning;8;1,462522852;4m 46.0s;1,690777371;0.0s
+111017;Selection of parameter set faulty;S330 Turn assembly;M03;Warning;8;1,462522852;4m 45.0s;1,684723213;0.0s
+141013;Presence of component by data / sensor system implausible;S410 Check Cap;M04;Warning;8;1,462522852;4m 44.0s;1,679130211;0.0s
+061009;Door1 not locked;S240 Insert sheet metal;M02;Warning;8;1,462522852;4m 42.1s;1,668068366;0.0s
+151029;Station parameter invalid;S420 Plastic laser welding;M04;Info;8;1,462522852;4m 41.9s;1,666915474;0.0s
+061034;Acknowledgement program number Screwdriving unit faulty;S240 Insert sheet metal;M02;Info;8;1,462522852;4m 40.1s;1,656314785;0.0s
+131022;Contract condition invalid (station type/loading);S350 Camera check;M03;Warning;8;1,462522852;4m 38.4s;1,646021534;0.0s
+111021;Start condition invalid (station type/loading);S330 Turn assembly;M03;Warning;8;1,462522852;4m 36.8s;1,636615123;0.0s
+091010;Door2 not locked;S310 Turn assembly;M03;Warning;8;1,462522852;4m 35.5s;1,628533058;0.0s
+181001;Module off due to open door 1;S450 Packaging;M04;Info;8;1,462522852;4m 34.2s;1,620947624;0.0s
+131017;Selection of parameter set faulty;S350 Camera check;M03;Warning;8;1,462522852;4m 34.0s;1,619936626;0.0s
+031002;Module off due to OFF button on the panel;S210 Insert cap;M02;Info;8;1,462522852;4m 33.8s;1,618529508;0.0s
+071029;Station parameter invalid;S250 Laser welding;M02;Info;8;1,462522852;4m 32.5s;1,611204213;0.0s
+011028;"Turntable does not report ""in position""";S120 Plug connectors;M01;Warning;8;1,462522852;4m 31.6s;1,60558165;0.0s
+081027;Part expected in turntable nest;S260 Camera check;M02;Info;8;1,462522852;4m 28.2s;1,585562725;0.0s
+131000;Setup selected (key switch);S350 Camera check;M03;Info;8;1,462522852;4m 27.9s;1,583623502;0.0s
+171033;Screwdriver program number not in the permissible range;S440 Check DMC;M04;Warning;8;1,462522852;4m 27.8s;1,583073662;0.0s
+171010;Door2 not locked;S440 Check DMC;M04;Warning;8;1,462522852;4m 26.6s;1,576451926;0.0s
+081021;Start condition invalid (station type/loading);S260 Camera check;M02;Warning;8;1,462522852;4m 26.5s;1,575340421;0.0s
+081025;Nest number has changed unexpectedly;S260 Camera check;M02;Info;8;1,462522852;4m 25.0s;1,566998217;0.0s
+161003;Safety fault in the drive;S430 Clean assembly;M04;Warning;8;1,462522852;4m 24.4s;1,563397648;0.0s
+081008;Fault LineController response: Batch not OK;S260 Camera check;M02;Warning;8;1,462522852;4m 24.3s;1,562315704;0.0s
+091000;Setup selected (key switch);S310 Turn assembly;M03;Info;8;1,462522852;4m 22.0s;1,5489599;0.0s
+111015;Turntable: Coding not plausible;S330 Turn assembly;M03;Warning;8;1,462522852;4m 21.2s;1,544153229;0.0s
+011018;Sensors gripper 1 faulty;S120 Plug connectors;M01;Warning;8;1,462522852;4m 20.8s;1,542190358;0.0s
+061021;Start condition invalid (station type/loading);S240 Insert sheet metal;M02;Warning;8;1,462522852;4m 17.7s;1,523773656;0.0s
+121005;Fault LineController: Receive;S340 Soldering;M03;Warning;8;1,462522852;4m 16.2s;1,514952559;0.0s
+051006;Fault LineController response: general error - see LC;S230 Move assembly;M02;Warning;8;1,462522852;4m 13.0s;1,495855947;0.0s
+081014;Maximum number of NOK parts in a row reached;S260 Camera check;M02;Info;8;1,462522852;4m 13.0s;1,495613544;0.0s
+101005;Fault LineController: Receive;S320 Fluxing;M03;Warning;8;1,462522852;4m 8.0s;1,466111347;0.0s
+051012;"Turntable does not report ""in position""";S230 Move assembly;M02;Info;8;1,462522852;4m 5.5s;1,451484407;0.0s
+071033;Screwdriver program number not in the permissible range;S250 Laser welding;M02;Warning;8;1,462522852;4m 5.4s;1,45091683;0.0s
+071034;Acknowledgement program number Screwdriving unit faulty;S250 Laser welding;M02;Info;8;1,462522852;4m 4.3s;1,444531585;0.0s
+021031;Screwdriver Maintenance required;S130 Check DMC;M01;Info;8;1,462522852;4m 2.9s;1,436260328;0.0s
+011015;Turntable: Coding not plausible;S120 Plug connectors;M01;Warning;8;1,462522852;4m 0.6s;1,422786278;0.0s
+031004;Fault LineController: Send;S210 Insert cap;M02;Warning;8;1,462522852;4m 0.5s;1,421858053;0.0s
+161026;Turntable nest not recognized;S430 Clean assembly;M04;Warning;8;1,462522852;3m 59.7s;1,416956786;0.0s
+031010;Door2 not locked;S210 Insert cap;M02;Warning;8;1,462522852;3m 59.5s;1,415957614;0.0s
+031018;Sensors gripper 1 faulty;S210 Insert cap;M02;Warning;8;1,462522852;3m 34.1s;1,265667869;0.0s
+001031;Screwdriver Maintenance required;S110 Circuit board;M01;Info;7;1,279707495;5m 57.3s;2,112475497;0.0s
+001008;Fault LineController response: Batch not OK;S110 Circuit board;M01;Warning;7;1,279707495;5m 54.5s;2,095962545;0.0s
+181006;Fault LineController response: general error - see LC;S450 Packaging;M04;Warning;7;1,279707495;5m 52.2s;2,082287479;0.0s
+151026;Turntable nest not recognized;S420 Plastic laser welding;M04;Warning;7;1,279707495;5m 39.7s;2,008514251;0.0s
+041029;Station parameter invalid;S220 Check snap-in;M02;Info;7;1,279707495;5m 38.5s;2,001514131;0.0s
+091025;Nest number has changed unexpectedly;S310 Turn assembly;M03;Info;7;1,279707495;5m 38.2s;1,999267471;0.0s
+091014;Maximum number of NOK parts in a row reached;S310 Turn assembly;M03;Info;7;1,279707495;5m 36.2s;1,987951398;0.0s
+091017;Selection of parameter set faulty;S310 Turn assembly;M03;Warning;7;1,279707495;5m 23.3s;1,911547213;0.0s
+151012;"Turntable does not report ""in position""";S420 Plastic laser welding;M04;Info;7;1,279707495;5m 22.5s;1,906598648;0.0s
+041021;Start condition invalid (station type/loading);S220 Check snap-in;M02;Warning;7;1,279707495;5m 22.4s;1,905883264;0.0s
+091027;Part expected in turntable nest;S310 Turn assembly;M03;Info;7;1,279707495;5m 15.8s;1,867152024;0.0s
+041000;Setup selected (key switch);S220 Check snap-in;M02;Info;7;1,279707495;5m 15.2s;1,863450947;0.0s
+131025;Nest number has changed unexpectedly;S350 Camera check;M03;Info;7;1,279707495;5m 6.2s;1,810358818;0.0s
+151015;Turntable: Coding not plausible;S420 Plastic laser welding;M04;Warning;7;1,279707495;5m 2.5s;1,788365197;0.0s
+011014;Maximum number of NOK parts in a row reached;S120 Plug connectors;M01;Info;7;1,279707495;5m 0.6s;1,777332913;0.0s
+151008;Fault LineController response: Batch not OK;S420 Plastic laser welding;M04;Warning;7;1,279707495;4m 58.9s;1,76695689;0.0s
+181002;Module off due to OFF button on the panel;S450 Packaging;M04;Info;7;1,279707495;4m 56.2s;1,751076549;0.0s
+001035;Screw unit not ready;S110 Circuit board;M01;Warning;7;1,279707495;4m 55.2s;1,745028303;0.0s
+051009;Door1 not locked;S230 Move assembly;M02;Warning;7;1,279707495;4m 54.4s;1,74029258;0.0s
+141020;Tape control life bit timeout;S410 Check Cap;M04;Warning;7;1,279707495;4m 53.2s;1,733493477;0.0s
+051034;Acknowledgement program number Screwdriving unit faulty;S230 Move assembly;M02;Info;7;1,279707495;4m 50.7s;1,718742379;0.0s
+001009;Door1 not locked;S110 Circuit board;M01;Warning;7;1,279707495;4m 47.1s;1,697529176;0.0s
+131031;Screwdriver Maintenance required;S350 Camera check;M03;Info;7;1,279707495;4m 44.0s;1,679301667;0.0s
+051029;Station parameter invalid;S230 Move assembly;M02;Info;7;1,279707495;4m 43.9s;1,678639494;0.0s
+041014;Maximum number of NOK parts in a row reached;S220 Check snap-in;M02;Info;7;1,279707495;4m 42.9s;1,672810001;0.0s
+161005;Fault LineController: Receive;S430 Clean assembly;M04;Warning;7;1,279707495;4m 41.6s;1,664733849;0.0s
+071014;Maximum number of NOK parts in a row reached;S250 Laser welding;M02;Info;7;1,279707495;4m 39.7s;1,653488723;0.0s
+041011;Tape control fault OPC communication;S220 Check snap-in;M02;Warning;7;1,279707495;4m 37.4s;1,64010927;0.0s
+181026;Turntable nest not recognized;S450 Packaging;M04;Warning;7;1,279707495;4m 35.9s;1,63141233;0.0s
+031006;Fault LineController response: general error - see LC;S210 Insert cap;M02;Warning;7;1,279707495;4m 34.3s;1,621574324;0.0s
+121034;Acknowledgement program number Screwdriving unit faulty;S340 Soldering;M03;Info;7;1,279707495;4m 32.0s;1,608283555;0.0s
+091016;Turntable: Error of the coding sensors;S310 Turn assembly;M03;Warning;7;1,279707495;4m 29.6s;1,594029087;0.0s
+071023;Idle operation manually active;S250 Laser welding;M02;Warning;7;1,279707495;4m 29.4s;1,592740213;0.0s
+071021;Start condition invalid (station type/loading);S250 Laser welding;M02;Warning;7;1,279707495;4m 28.6s;1,587921718;0.0s
+001003;Safety fault in the drive;S110 Circuit board;M01;Warning;7;1,279707495;4m 27.9s;1,584090571;0.0s
+151011;Tape control fault OPC communication;S420 Plastic laser welding;M04;Warning;7;1,279707495;4m 27.3s;1,580543213;0.0s
+041006;Fault LineController response: general error - see LC;S220 Check snap-in;M02;Warning;7;1,279707495;4m 26.8s;1,577658028;0.0s
+161002;Module off due to OFF button on the panel;S430 Clean assembly;M04;Info;7;1,279707495;4m 24.5s;1,564036172;0.0s
+011007;Fault LineController response: Material not OK;S120 Plug connectors;M01;Warning;7;1,279707495;4m 24.5s;1,563515893;0.0s
+021027;Part expected in turntable nest;S130 Check DMC;M01;Info;7;1,279707495;4m 22.4s;1,55164998;0.0s
+041012;"Turntable does not report ""in position""";S220 Check snap-in;M02;Info;7;1,279707495;4m 20.8s;1,542107586;0.0s
+181008;Fault LineController response: Batch not OK;S450 Packaging;M04;Warning;7;1,279707495;4m 19.6s;1,5348828;0.0s
+141001;Module off due to open door 1;S410 Check Cap;M04;Info;7;1,279707495;4m 19.2s;1,532665701;0.0s
+041024;HW inputs for enabling rotary table NOK;S220 Check snap-in;M02;Info;7;1,279707495;4m 18.5s;1,528574414;0.0s
+081003;Safety fault in the drive;S260 Camera check;M02;Warning;7;1,279707495;4m 16.5s;1,51623552;0.0s
+171024;HW inputs for enabling rotary table NOK;S440 Check DMC;M04;Info;7;1,279707495;4m 11.7s;1,488099056;0.0s
+001004;Fault LineController: Send;S110 Circuit board;M01;Warning;7;1,279707495;4m 11.3s;1,485958817;0.0s
+111011;Tape control fault OPC communication;S330 Turn assembly;M03;Warning;7;1,279707495;4m 11.0s;1,484173313;0.0s
+051015;Turntable: Coding not plausible;S230 Move assembly;M02;Warning;7;1,279707495;4m 10.3s;1,47980415;0.0s
+071001;Module off due to open door 1;S250 Laser welding;M02;Info;7;1,279707495;4m 10.2s;1,479319345;0.0s
+091028;"Turntable does not report ""in position""";S310 Turn assembly;M03;Warning;7;1,279707495;4m 10.2s;1,479171538;0.0s
+171021;Start condition invalid (station type/loading);S440 Check DMC;M04;Warning;7;1,279707495;4m 9.3s;1,47405743;0.0s
+101004;Fault LineController: Send;S320 Fluxing;M03;Warning;7;1,279707495;4m 9.1s;1,473005047;0.0s
+081016;Turntable: Error of the coding sensors;S260 Camera check;M02;Warning;7;1,279707495;4m 9.1s;1,472715346;0.0s
+111010;Door2 not locked;S330 Turn assembly;M03;Warning;7;1,279707495;4m 7.7s;1,464662843;0.0s
+011001;Module off due to open door 1;S120 Plug connectors;M01;Info;7;1,279707495;4m 7.1s;1,461085923;0.0s
+031005;Fault LineController: Receive;S210 Insert cap;M02;Warning;7;1,279707495;4m 5.7s;1,452791017;0.0s
+041030;"Sensor has not detected any part or nest not ""EMPTY""";S220 Check snap-in;M02;Info;7;1,279707495;4m 4.4s;1,445252881;0.0s
+051013;Presence of component by data / sensor system implausible;S230 Move assembly;M02;Warning;7;1,279707495;4m 4.4s;1,444945443;0.0s
+091020;Tape control life bit timeout;S310 Turn assembly;M03;Warning;7;1,279707495;4m 0.2s;1,420273566;0.0s
+021026;Turntable nest not recognized;S130 Check DMC;M01;Warning;7;1,279707495;3m 59.9s;1,418523536;0.0s
+171017;Selection of parameter set faulty;S440 Check DMC;M04;Warning;7;1,279707495;3m 59.5s;1,416140894;0.0s
+181017;Selection of parameter set faulty;S450 Packaging;M04;Warning;7;1,279707495;3m 59.4s;1,415123985;0.0s
+111023;Idle operation manually active;S330 Turn assembly;M03;Warning;7;1,279707495;3m 59.1s;1,413391691;0.0s
+061024;HW inputs for enabling rotary table NOK;S240 Insert sheet metal;M02;Info;7;1,279707495;3m 59.0s;1,413297095;0.0s
+091032;Position set specification outside the permissible range;S310 Turn assembly;M03;Warning;7;1,279707495;3m 58.1s;1,40798197;0.0s
+131004;Fault LineController: Send;S350 Camera check;M03;Warning;7;1,279707495;3m 56.8s;1,399740274;0.0s
+131011;Tape control fault OPC communication;S350 Camera check;M03;Warning;7;1,279707495;3m 56.5s;1,398451401;0.0s
+121010;Door2 not locked;S340 Soldering;M03;Warning;7;1,279707495;3m 54.3s;1,385272965;0.0s
+101031;Screwdriver Maintenance required;S320 Fluxing;M03;Info;7;1,279707495;3m 54.1s;1,384297441;0.0s
+141022;Contract condition invalid (station type/loading);S410 Check Cap;M04;Warning;7;1,279707495;3m 53.3s;1,379372526;0.0s
+171031;Screwdriver Maintenance required;S440 Check DMC;M04;Info;7;1,279707495;3m 53.2s;1,378929106;0.0s
+041005;Fault LineController: Receive;S220 Check snap-in;M02;Warning;7;1,279707495;3m 52.2s;1,373005017;0.0s
+051019;Data gripper 1 not plausible;S230 Move assembly;M02;Warning;7;1,279707495;3m 50.2s;1,360819842;0.0s
+181005;Fault LineController: Receive;S450 Packaging;M04;Warning;7;1,279707495;3m 50.1s;1,360666123;0.0s
+051026;Turntable nest not recognized;S230 Move assembly;M02;Warning;7;1,279707495;3m 49.8s;1,358827409;0.0s
+171022;Contract condition invalid (station type/loading);S440 Check DMC;M04;Warning;7;1,279707495;3m 49.8s;1,358780111;0.0s
+101000;Setup selected (key switch);S320 Fluxing;M03;Info;7;1,279707495;3m 49.3s;1,355705734;0.0s
+011006;Fault LineController response: general error - see LC;S120 Plug connectors;M01;Warning;7;1,279707495;3m 49.0s;1,353742862;0.0s
+021002;Module off due to OFF button on the panel;S130 Check DMC;M01;Info;7;1,279707495;3m 42.6s;1,316276846;0.0s
+031025;Nest number has changed unexpectedly;S210 Insert cap;M02;Info;7;1,279707495;3m 41.3s;1,308401711;0.0s
+141015;Turntable: Coding not plausible;S410 Check Cap;M04;Warning;7;1,279707495;3m 39.8s;1,299651561;0.0s
+081001;Module off due to open door 1;S260 Camera check;M02;Info;7;1,279707495;3m 39.1s;1,295122767;0.0s
+031016;Turntable: Error of the coding sensors;S210 Insert cap;M02;Warning;7;1,279707495;3m 38.8s;1,293715648;0.0s
+091033;Screwdriver program number not in the permissible range;S310 Turn assembly;M03;Warning;7;1,279707495;3m 38.3s;1,290860024;0.0s
+081007;Fault LineController response: Material not OK;S260 Camera check;M02;Warning;7;1,279707495;3m 34.1s;1,265969394;0.0s
+031009;Door1 not locked;S210 Insert cap;M02;Warning;7;1,279707495;3m 31.5s;1,250609333;0.0s
+081000;Setup selected (key switch);S260 Camera check;M02;Info;7;1,279707495;3m 29.9s;1,24122657;0.0s
+171000;Setup selected (key switch);S440 Check DMC;M04;Info;7;1,279707495;3m 29.1s;1,236508584;0.0s
+061014;Maximum number of NOK parts in a row reached;S240 Insert sheet metal;M02;Info;7;1,279707495;3m 28.7s;1,233712083;0.0s
+161028;"Turntable does not report ""in position""";S430 Clean assembly;M04;Warning;7;1,279707495;3m 28.5s;1,232742472;0.0s
+061007;Fault LineController response: Material not OK;S240 Insert sheet metal;M02;Warning;7;1,279707495;3m 28.4s;1,232405473;0.0s
+051035;Screw unit not ready;S230 Move assembly;M02;Warning;7;1,279707495;3m 27.7s;1,227918064;0.0s
+161030;"Sensor has not detected any part or nest not ""EMPTY""";S430 Clean assembly;M04;Info;7;1,279707495;3m 24.0s;1,205906706;0.0s
+111008;Fault LineController response: Batch not OK;S330 Turn assembly;M03;Warning;7;1,279707495;3m 19.2s;1,177510103;0.0s
+081029;Station parameter invalid;S260 Camera check;M02;Info;7;1,279707495;3m 16.2s;1,160234469;0.0s
+061018;Sensors gripper 1 faulty;S240 Insert sheet metal;M02;Warning;7;1,279707495;3m 9.9s;1,122703418;0.0s
+121027;Part expected in turntable nest;S340 Soldering;M03;Info;6;1,096892139;5m 11.9s;1,843999599;0.0s
+051027;Part expected in turntable nest;S230 Move assembly;M02;Info;6;1,096892139;4m 46.7s;1,695128797;0.0s
+121029;Station parameter invalid;S340 Soldering;M03;Info;6;1,096892139;4m 38.6s;1,647334057;0.0s
+141029;Station parameter invalid;S410 Check Cap;M04;Info;6;1,096892139;4m 36.3s;1,63349936;0.0s
+091019;Data gripper 1 not plausible;S310 Turn assembly;M03;Warning;6;1,096892139;4m 33.0s;1,614071661;0.0s
+021034;Acknowledgement program number Screwdriving unit faulty;S130 Check DMC;M01;Info;6;1,096892139;4m 30.8s;1,601247961;0.0s
+001007;Fault LineController response: Material not OK;S110 Circuit board;M01;Warning;6;1,096892139;4m 29.4s;1,593047651;0.0s
+101018;Sensors gripper 1 faulty;S320 Fluxing;M03;Warning;6;1,096892139;4m 25.1s;1,567518496;0.0s
+151007;Fault LineController response: Material not OK;S420 Plastic laser welding;M04;Warning;6;1,096892139;4m 24.0s;1,560760778;0.0s
+181023;Idle operation manually active;S450 Packaging;M04;Warning;6;1,096892139;4m 24.0s;1,560607059;0.0s
+001012;"Turntable does not report ""in position""";S110 Circuit board;M01;Info;6;1,096892139;4m 23.7s;1,558987099;0.0s
+121006;Fault LineController response: general error - see LC;S340 Soldering;M03;Warning;6;1,096892139;4m 23.7s;1,558803819;0.0s
+091006;Fault LineController response: general error - see LC;S310 Turn assembly;M03;Warning;6;1,096892139;4m 22.5s;1,551803699;0.0s
+091008;Fault LineController response: Batch not OK;S310 Turn assembly;M03;Warning;6;1,096892139;4m 20.7s;1,541421763;0.0s
+111019;Data gripper 1 not plausible;S330 Turn assembly;M03;Warning;6;1,096892139;4m 20.0s;1,537005302;0.0s
+171028;"Turntable does not report ""in position""";S440 Check DMC;M04;Warning;6;1,096892139;4m 19.6s;1,534983308;0.0s
+131018;Sensors gripper 1 faulty;S350 Camera check;M03;Warning;6;1,096892139;4m 19.0s;1,530998442;0.0s
+161014;Maximum number of NOK parts in a row reached;S430 Clean assembly;M04;Info;6;1,096892139;4m 18.4s;1,527977276;0.0s
+091011;Tape control fault OPC communication;S310 Turn assembly;M03;Warning;6;1,096892139;4m 16.6s;1,5170455;0.0s
+121030;"Sensor has not detected any part or nest not ""EMPTY""";S340 Soldering;M03;Info;6;1,096892139;4m 15.9s;1,513214353;0.0s
+071013;Presence of component by data / sensor system implausible;S250 Laser welding;M02;Warning;6;1,096892139;4m 12.1s;1,490410752;0.0s
+081011;Tape control fault OPC communication;S260 Camera check;M02;Warning;6;1,096892139;4m 11.5s;1,486715587;0.0s
+071019;Data gripper 1 not plausible;S250 Laser welding;M02;Warning;6;1,096892139;4m 9.3s;1,473974658;0.0s
+161015;Turntable: Coding not plausible;S430 Clean assembly;M04;Warning;6;1,096892139;4m 8.7s;1,470332704;0.0s
+081028;"Turntable does not report ""in position""";S260 Camera check;M02;Warning;6;1,096892139;4m 8.0s;1,466330101;0.0s
+041010;Door2 not locked;S220 Check snap-in;M02;Warning;6;1,096892139;4m 6.7s;1,458650071;0.0s
+051032;Position set specification outside the permissible range;S230 Move assembly;M02;Warning;6;1,096892139;4m 3.9s;1,441835592;0.0s
+161017;Selection of parameter set faulty;S430 Clean assembly;M04;Warning;6;1,096892139;4m 3.7s;1,440972402;0.0s
+141000;Setup selected (key switch);S410 Check Cap;M04;Info;6;1,096892139;4m 3.2s;1,437809341;0.0s
+141032;Position set specification outside the permissible range;S410 Check Cap;M04;Warning;6;1,096892139;4m 1.7s;1,429195172;0.0s
+021004;Fault LineController: Send;S130 Check DMC;M01;Warning;6;1,096892139;4m 1.5s;1,4275693;0.0s
+171018;Sensors gripper 1 faulty;S440 Check DMC;M04;Warning;6;1,096892139;4m 0.9s;1,424483098;0.0s
+011002;Module off due to OFF button on the panel;S120 Plug connectors;M01;Info;6;1,096892139;4m 0.2s;1,420297215;0.0s
+081032;Position set specification outside the permissible range;S260 Camera check;M02;Warning;6;1,096892139;3m 59.4s;1,415307265;0.0s
+091009;Door1 not locked;S310 Turn assembly;M03;Warning;6;1,096892139;3m 59.1s;1,413716866;0.0s
+141006;Fault LineController response: general error - see LC;S410 Check Cap;M04;Warning;6;1,096892139;3m 58.2s;1,40803518;0.0s
+121035;Screw unit not ready;S340 Soldering;M03;Warning;6;1,096892139;3m 57.9s;1,406397483;0.0s
+111013;Presence of component by data / sensor system implausible;S330 Turn assembly;M03;Warning;6;1,096892139;3m 57.6s;1,404872119;0.0s
+011012;"Turntable does not report ""in position""";S120 Plug connectors;M01;Info;6;1,096892139;3m 57.0s;1,401342498;0.0s
+121024;HW inputs for enabling rotary table NOK;S340 Soldering;M03;Info;6;1,096892139;3m 56.6s;1,398871171;0.0s
+151035;Screw unit not ready;S420 Plastic laser welding;M04;Warning;6;1,096892139;3m 55.9s;1,394620254;0.0s
+161023;Idle operation manually active;S430 Clean assembly;M04;Warning;6;1,096892139;3m 54.9s;1,388572008;0.0s
+001016;Turntable: Error of the coding sensors;S110 Circuit board;M01;Warning;6;1,096892139;3m 52.5s;1,374341189;0.0s
+171016;Turntable: Error of the coding sensors;S440 Check DMC;M04;Warning;6;1,096892139;3m 51.7s;1,369989763;0.0s
+161010;Door2 not locked;S430 Clean assembly;M04;Warning;6;1,096892139;3m 51.5s;1,368434838;0.0s
+171023;Idle operation manually active;S440 Check DMC;M04;Warning;6;1,096892139;3m 50.9s;1,365159443;0.0s
+031026;Turntable nest not recognized;S210 Insert cap;M02;Warning;6;1,096892139;3m 50.3s;1,361878137;0.0s
+171001;Module off due to open door 1;S440 Check DMC;M04;Info;6;1,096892139;3m 49.4s;1,356196452;0.0s
+151033;Screwdriver program number not in the permissible range;S420 Plastic laser welding;M04;Warning;6;1,096892139;3m 49.3s;1,355977698;0.0s
+051024;HW inputs for enabling rotary table NOK;S230 Move assembly;M02;Info;6;1,096892139;3m 48.2s;1,349042612;0.0s
+111014;Maximum number of NOK parts in a row reached;S330 Turn assembly;M03;Info;6;1,096892139;3m 47.5s;1,344744397;0.0s
+091018;Sensors gripper 1 faulty;S310 Turn assembly;M03;Warning;6;1,096892139;3m 45.4s;1,332464625;0.0s
+041004;Fault LineController: Send;S220 Check snap-in;M02;Warning;6;1,096892139;3m 44.9s;1,32963265;0.0s
+131023;Idle operation manually active;S350 Camera check;M03;Warning;6;1,096892139;3m 43.3s;1,319936538;0.0s
+071007;Fault LineController response: Material not OK;S250 Laser welding;M02;Warning;6;1,096892139;3m 42.3s;1,314402659;0.0s
+051003;Safety fault in the drive;S230 Move assembly;M02;Warning;6;1,096892139;3m 40.5s;1,303577304;0.0s
+011003;Safety fault in the drive;S120 Plug connectors;M01;Warning;6;1,096892139;3m 39.8s;1,299610175;0.0s
+181007;Fault LineController response: Material not OK;S450 Packaging;M04;Warning;6;1,096892139;3m 36.7s;1,281477262;0.0s
+011010;Door2 not locked;S120 Plug connectors;M01;Warning;6;1,096892139;3m 35.1s;1,271532834;0.0s
+181013;Presence of component by data / sensor system implausible;S450 Packaging;M04;Warning;6;1,096892139;3m 29.9s;1,241102413;0.0s
+071020;Tape control life bit timeout;S250 Laser welding;M02;Warning;6;1,096892139;3m 28.9s;1,235160587;0.0s
+071008;Fault LineController response: Batch not OK;S250 Laser welding;M02;Warning;6;1,096892139;3m 28.9s;1,23490636;0.0s
+051017;Selection of parameter set faulty;S230 Move assembly;M02;Warning;6;1,096892139;3m 27.8s;1,228521115;0.0s
+111027;Part expected in turntable nest;S330 Turn assembly;M03;Info;6;1,096892139;3m 26.6s;1,221420486;0.0s
+181011;Tape control fault OPC communication;S450 Packaging;M04;Warning;6;1,096892139;3m 26.1s;1,218665371;0.0s
+021030;"Sensor has not detected any part or nest not ""EMPTY""";S130 Check DMC;M01;Info;6;1,096892139;3m 26.1s;1,218275162;0.0s
+071004;Fault LineController: Send;S250 Laser welding;M02;Warning;6;1,096892139;3m 25.5s;1,214893347;0.0s
+011016;Turntable: Error of the coding sensors;S120 Plug connectors;M01;Warning;6;1,096892139;3m 24.5s;1,209300346;0.0s
+031022;Contract condition invalid (station type/loading);S210 Insert cap;M02;Warning;6;1,096892139;3m 19.3s;1,178296434;0.0s
+101007;Fault LineController response: Material not OK;S320 Fluxing;M03;Warning;6;1,096892139;3m 18.7s;1,174648568;0.0s
+171013;Presence of component by data / sensor system implausible;S440 Check DMC;M04;Warning;6;1,096892139;3m 18.0s;1,170509983;0.0s
+121026;Turntable nest not recognized;S340 Soldering;M03;Warning;6;1,096892139;3m 16.1s;1,159199822;0.0s
+041013;Presence of component by data / sensor system implausible;S220 Check snap-in;M02;Warning;6;1,096892139;3m 15.7s;1,156829005;0.0s
+161013;Presence of component by data / sensor system implausible;S430 Clean assembly;M04;Warning;6;1,096892139;3m 10.9s;1,128893558;0.0s
+181003;Safety fault in the drive;S450 Packaging;M04;Warning;6;1,096892139;3m 8.9s;1,116850277;0.0s
+071012;"Turntable does not report ""in position""";S250 Laser welding;M02;Info;6;1,096892139;3m 8.2s;1,112693956;0.0s
+161012;"Turntable does not report ""in position""";S430 Clean assembly;M04;Info;6;1,096892139;2m 57.8s;1,051389692;0.0s
+101027;Part expected in turntable nest;S320 Fluxing;M03;Info;6;1,096892139;2m 54.6s;1,032281256;0.0s
+061029;Station parameter invalid;S240 Insert sheet metal;M02;Info;6;1,096892139;2m 45.3s;0,977232168;0.0s
+121014;Maximum number of NOK parts in a row reached;S340 Soldering;M03;Info;6;1,096892139;2m 30.6s;0,890546556;0.0s
+141030;"Sensor has not detected any part or nest not ""EMPTY""";S410 Check Cap;M04;Info;5;0,914076782;4m 8.6s;1,470054827;0.0s
+101028;"Turntable does not report ""in position""";S320 Fluxing;M03;Warning;5;0,914076782;3m 50.0s;1,360086721;0.0s
+151004;Fault LineController: Send;S420 Plastic laser welding;M04;Warning;5;0,914076782;3m 49.1s;1,354357737;0.0s
+001015;Turntable: Coding not plausible;S110 Circuit board;M01;Warning;5;0,914076782;3m 48.2s;1,349143121;0.0s
+131015;Turntable: Coding not plausible;S350 Camera check;M03;Warning;5;0,914076782;3m 42.4s;1,314982061;0.0s
+071022;Contract condition invalid (station type/loading);S250 Laser welding;M02;Warning;5;0,914076782;3m 36.3s;1,278982287;0.0s
+011030;"Sensor has not detected any part or nest not ""EMPTY""";S120 Plug connectors;M01;Info;5;0,914076782;3m 32.3s;1,254907548;0.0s
+091007;Fault LineController response: Material not OK;S310 Turn assembly;M03;Warning;5;0,914076782;3m 29.8s;1,240097328;0.0s
+091021;Start condition invalid (station type/loading);S310 Turn assembly;M03;Warning;5;0,914076782;3m 29.2s;1,237034775;0.0s
+021008;Fault LineController response: Batch not OK;S130 Check DMC;M01;Warning;5;0,914076782;3m 27.1s;1,224536249;0.0s
+161001;Module off due to open door 1;S430 Clean assembly;M04;Info;5;0,914076782;3m 21.0s;1,188554212;0.0s
+121023;Idle operation manually active;S340 Soldering;M03;Warning;5;0,914076782;3m 20.9s;1,187773793;0.0s
+111018;Sensors gripper 1 faulty;S330 Turn assembly;M03;Warning;5;0,914076782;3m 20.0s;1,182334511;0.0s
+101022;Contract condition invalid (station type/loading);S320 Fluxing;M03;Warning;5;0,914076782;3m 19.2s;1,177663822;0.0s
+101006;Fault LineController response: general error - see LC;S320 Fluxing;M03;Warning;5;0,914076782;3m 15.4s;1,155492833;0.0s
+061013;Presence of component by data / sensor system implausible;S240 Insert sheet metal;M02;Warning;5;0,914076782;3m 9.6s;1,120764196;0.0s
+131007;Fault LineController response: Material not OK;S350 Camera check;M03;Warning;5;0,914076782;3m 6.9s;1,104854294;0.0s
+021020;Tape control life bit timeout;S130 Check DMC;M01;Warning;5;0,914076782;3m 5.3s;1,095725758;0.0s
+001022;Contract condition invalid (station type/loading);S110 Circuit board;M01;Warning;5;0,914076782;3m 4.1s;1,088424113;0.0s
+151005;Fault LineController: Receive;S420 Plastic laser welding;M04;Warning;5;0,914076782;3m 3.8s;1,08674503;0.0s
+001000;Setup selected (key switch);S110 Circuit board;M01;Info;5;0,914076782;2m 58.5s;1,055315436;0.0s
+031008;Fault LineController response: Batch not OK;S210 Insert cap;M02;Warning;5;0,914076782;2m 57.6s;1,049923451;0.0s
+071016;Turntable: Error of the coding sensors;S250 Laser welding;M02;Warning;5;0,914076782;2m 57.0s;1,046529812;0.0s
+061015;Turntable: Coding not plausible;S240 Insert sheet metal;M02;Warning;5;0,914076782;2m 55.7s;1,038589641;0.0s
+181034;Acknowledgement program number Screwdriving unit faulty;S450 Packaging;M04;Info;5;0,914076782;2m 55.3s;1,036538086;0.0s
+171035;Screw unit not ready;S440 Check DMC;M04;Warning;5;0,914076782;2m 52.2s;1,018322401;0.0s
+071005;Fault LineController: Receive;S250 Laser welding;M02;Warning;5;0,914076782;2m 48.2s;0,994342259;0.0s
+061027;Part expected in turntable nest;S240 Insert sheet metal;M02;Info;5;0,914076782;2m 46.9s;0,986839596;0.0s
+051030;"Sensor has not detected any part or nest not ""EMPTY""";S230 Move assembly;M02;Info;5;0,914076782;2m 44.2s;0,970758239;0.0s
+021001;Module off due to open door 1;S130 Check DMC;M01;Info;5;0,914076782;2m 44.1s;0,970415328;0.0s
+041016;Turntable: Error of the coding sensors;S220 Check snap-in;M02;Warning;5;0,914076782;2m 43.7s;0,9679913;0.0s
+031019;Data gripper 1 not plausible;S210 Insert cap;M02;Warning;5;0,914076782;2m 42.9s;0,962995437;0.0s
+171005;Fault LineController: Receive;S440 Check DMC;M04;Warning;5;0,914076782;2m 37.9s;0,933357258;0.0s
+021007;Fault LineController response: Material not OK;S130 Check DMC;M01;Warning;5;0,914076782;2m 36.3s;0,924311495;0.0s
+051004;Fault LineController: Send;S230 Move assembly;M02;Warning;5;0,914076782;2m 35.4s;0,918819002;0.0s
+021028;"Turntable does not report ""in position""";S130 Check DMC;M01;Warning;5;0,914076782;2m 32.0s;0,898805989;0.0s
+031017;Selection of parameter set faulty;S210 Insert cap;M02;Warning;5;0,914076782;2m 28.6s;0,878810713;0.0s
+031033;Screwdriver program number not in the permissible range;S210 Insert cap;M02;Warning;5;0,914076782;2m 24.5s;0,854215695;0.0s
+021017;Selection of parameter set faulty;S130 Check DMC;M01;Warning;5;0,914076782;2m 21.0s;0,83344;0.0s
+161020;Tape control life bit timeout;S430 Clean assembly;M04;Warning;5;0,914076782;2m 3.1s;0,727811496;0.0s
+161029;Station parameter invalid;S430 Clean assembly;M04;Info;4;0,731261426;3m 32.8s;1,258206592;0.0s
+072002;S250 Laser welding: Current exceeded its lower limit of 80 A.;S250 Laser welding;M02;Warning;4;0,731261426;3m 24.6s;1,209891572;0.0s
+151001;Module off due to open door 1;S420 Plastic laser welding;M04;Info;4;0,731261426;3m 22.2s;1,195300105;0.0s
+041015;Turntable: Coding not plausible;S220 Check snap-in;M02;Warning;4;0,731261426;3m 10.5s;1,12628625;0.0s
+141024;HW inputs for enabling rotary table NOK;S410 Check Cap;M04;Info;4;0,731261426;3m 4.4s;1,090493405;0.0s
+001027;Part expected in turntable nest;S110 Circuit board;M01;Info;4;0,731261426;2m 54.7s;1,032677378;0.0s
+041009;Door1 not locked;S220 Check snap-in;M02;Warning;4;0,731261426;2m 49.7s;1,003547654;0.0s
+141023;Idle operation manually active;S410 Check Cap;M04;Warning;4;0,731261426;2m 47.7s;0,991504373;0.0s
+101002;Module off due to OFF button on the panel;S320 Fluxing;M03;Info;4;0,731261426;2m 46.0s;0,98131163;0.0s
+013007;Auxiliary control air valve does not switch on;S120 Plug connectors;M01;Error;4;0,731261426;2m 44.8s;0,974577561;0.0s
+181010;Door2 not locked;S450 Packaging;M04;Warning;4;0,731261426;2m 44.1s;0,970243872;0.0s
+001010;Door2 not locked;S110 Circuit board;M01;Warning;4;0,731261426;2m 31.6s;0,89627554;0.0s
+141021;Start condition invalid (station type/loading);S410 Check Cap;M04;Warning;4;0,731261426;2m 30.5s;0,889571033;0.0s
+071003;Safety fault in the drive;S250 Laser welding;M02;Warning;4;0,731261426;2m 25.5s;0,860187082;0.0s
+091026;Turntable nest not recognized;S310 Turn assembly;M03;Warning;4;0,731261426;2m 22.6s;0,84289371;0.0s
+141002;Module off due to OFF button on the panel;S410 Check Cap;M04;Info;4;0,731261426;2m 21.7s;0,837779602;0.0s
+031000;Setup selected (key switch);S210 Insert cap;M02;Info;4;0,731261426;2m 20.4s;0,829928116;0.0s
+151002;Module off due to OFF button on the panel;S420 Plastic laser welding;M04;Info;4;0,731261426;2m 12.8s;0,785290524;0.0s
+071017;Selection of parameter set faulty;S250 Laser welding;M02;Warning;4;0,731261426;2m 6.1s;0,74540048;0.0s
+051008;Fault LineController response: Batch not OK;S230 Move assembly;M02;Warning;4;0,731261426;2m 4.7s;0,737217907;0.0s
+081019;Data gripper 1 not plausible;S260 Camera check;M02;Warning;4;0,731261426;2m 3.7s;0,731264258;0.0s
+121013;Presence of component by data / sensor system implausible;S340 Soldering;M03;Warning;4;0,731261426;2m 3.1s;0,727971127;0.0s
+061002;Module off due to OFF button on the panel;S240 Insert sheet metal;M02;Info;4;0,731261426;2m 1.4s;0,717979401;0.0s
+161024;HW inputs for enabling rotary table NOK;S430 Clean assembly;M04;Info;4;0,731261426;1m 52.7s;0,666288479;0.0s
+061025;Nest number has changed unexpectedly;S240 Insert sheet metal;M02;Info;4;0,731261426;1m 46.1s;0,627255713;0.0s
+101015;Turntable: Coding not plausible;S320 Fluxing;M03;Warning;3;0,548446069;2m 36.6s;0,925984665;0.0s
+072022;S250 Laser welding: Speed exceeded its lower limit of 250 mm/min.;S250 Laser welding;M02;Warning;3;0,548446069;2m 32.5s;0,901685261;0.0s
+091004;Fault LineController: Send;S310 Turn assembly;M03;Warning;3;0,548446069;2m 9.7s;0,76676149;0.0s
+101010;Door2 not locked;S320 Fluxing;M03;Warning;3;0,548446069;2m 9.6s;0,76650135;0.0s
+101001;Module off due to open door 1;S320 Fluxing;M03;Info;3;0,548446069;2m 4.7s;0,737306591;0.0s
+013047;Screwdriver program number not in the permissible range;S120 Plug connectors;M01;Warning;3;0,548446069;2m 1.7s;0,719776729;0.0s
+071026;Turntable nest not recognized;S250 Laser welding;M02;Warning;3;0,548446069;2m 0.9s;0,714887287;0.0s
+131032;Position set specification outside the permissible range;S350 Camera check;M03;Warning;3;0,548446069;1m 58.1s;0,698208791;0.0s
+013023;Door2 not locked;S120 Plug connectors;M01;Warning;3;0,548446069;1m 53.2s;0,669315558;0.0s
+001021;Start condition invalid (station type/loading);S110 Circuit board;M01;Warning;3;0,548446069;1m 46.4s;0,629342743;0.0s
+031003;Safety fault in the drive;S210 Insert cap;M02;Warning;3;0,548446069;1m 36.8s;0,572330783;0.0s
+121017;Selection of parameter set faulty;S340 Soldering;M03;Warning;3;0,548446069;1m 26.7s;0,512303569;0.0s
+101012;"Turntable does not report ""in position""";S320 Fluxing;M03;Info;3;0,548446069;1m 24.0s;0,496393667;0.0s
+134011;Fuse 400V has triggered;S350 Camera check;M03;Error;2;0,365630713;14m 20.2s;5,08567018;0.0s
+072021;S250 Laser welding: Speed exceeded its upper limit of 300 mm/min.;S250 Laser welding;M02;Warning;2;0,365630713;2m 47.9s;0,992946965;0.0s
+061011;Tape control fault OPC communication;S240 Insert sheet metal;M02;Warning;2;0,365630713;1m 30.6s;0,535408696;0.0s
+013042;Target station or workstate of the previous station Nok;S120 Plug connectors;M01;Error;2;0,365630713;1m 30.3s;0,533682315;0.0s
+013019;Fault LineController response: general error - see LC;S120 Plug connectors;M01;Warning;2;0,365630713;1m 27.1s;0,514869491;0.0s
+013037;Contract condition invalid (station type/loading);S120 Plug connectors;M01;Warning;2;0,365630713;1m 23.3s;0,492532959;0.0s
+153005;Main air valve does not switch on;S420 Plastic laser welding;M04;Error;2;0,365630713;1m 20.2s;0,473962538;0.0s
+061000;Setup selected (key switch);S240 Insert sheet metal;M02;Info;2;0,365630713;1m 17.4s;0,457621041;0.0s
+011020;Tape control life bit timeout;S120 Plug connectors;M01;Warning;2;0,365630713;1m 12.9s;0,431116363;0.0s
+013040;Turntable nest not recognized;S120 Plug connectors;M01;Warning;2;0,365630713;1m 11.0s;0,419995394;0.0s
+153024;Tape control fault OPC communication;S420 Plastic laser welding;M04;Warning;2;0,365630713;1m 9.8s;0,412652363;0.0s
+073021;Fault LineController response: Batch not OK;S250 Laser welding;M02;Warning;2;0,365630713;1m 9.3s;0,409826301;0.0s
+013033;Sensors gripper 1 faulty;S120 Plug connectors;M01;Warning;2;0,365630713;1m 7.1s;0,396789759;0.0s
+153025;Target station or workstate of the previous station Nok;S420 Plastic laser welding;M04;Error;2;0,365630713;1m 4.0s;0,378260724;0.0s
+011029;Station parameter invalid;S120 Plug connectors;M01;Info;2;0,365630713;1m 2.6s;0,37030873;0.0s
+013046;Deactivation torque limitation failed;S120 Plug connectors;M01;Error;2;0,365630713;59.0s;0,348634371;0.0s
+031028;"Turntable does not report ""in position""";S210 Insert cap;M02;Warning;2;0,365630713;31.8s;0,188287865;0.0s
+134014;Fuse for switch cabinet cooling has triggered;S350 Camera check;M03;Error;1;0,182815356;11m 27.8s;4,066543711;0.0s
+134016;Target station or workstate of the previous station Nok;S350 Camera check;M03;Error;1;0,182815356;11m 17.6s;4,006303656;0.0s
+134021;Target station or workstate of the previous station Nok;S350 Camera check;M03;Error;1;0,182815356;9m 18.3s;3,301047446;0.0s
+134018;Turntable does not switch on!;S350 Camera check;M03;Error;1;0,182815356;9m 11.2s;3,258561919;0.0s
+134008;Auxiliary control air valve does not switch off;S350 Camera check;M03;Error;1;0,182815356;8m 33.5s;3,035781907;0.0s
+034004;Air supply pressure below minimum working threshold;S210 Insert cap;M02;Error;1;0,182815356;8m 14.7s;2,925057031;0.0s
+134010;Pressure switch behind main valve does not switch off;S350 Camera check;M03;Error;1;0,182815356;5m 48.3s;2,059353807;0.0s
+134003;Cycle stop due to too low pressure of the air supply;S350 Camera check;M03;Error;1;0,182815356;5m 28.0s;1,939240256;0.0s
+164017;Cycle not possible because mechanical releases are not fulfilled!;S430 Clean assembly;M04;Error;1;0,182815356;1m 32.1s;0,544513582;0.0s
+164018;Turntable does not switch on!;S430 Clean assembly;M04;Error;1;0,182815356;1m 21.9s;0,484279438;0.0s
+164009;Pressure switch behind main valve does not switch on;S430 Clean assembly;M04;Error;1;0,182815356;1m 20.5s;0,476167813;0.0s
+013000;EMERGENCY STOP actuated;S120 Plug connectors;M01;Error;1;0,182815356;55.6s;0,328579972;0.0s
+102002;S320 Fluxing: Voltage exceeded its lower limit of 700 V.;S320 Fluxing;M03;Warning;1;0,182815356;53.2s;0,314721625;0.0s
+073018;Fault LineController: Receive;S250 Laser welding;M02;Warning;1;0,182815356;50.5s;0,298427427;0.0s
+013035;Tape control life bit timeout;S120 Plug connectors;M01;Warning;1;0,182815356;49.9s;0,295282102;0.0s
+013039;Turntable STOP selected by PLC;S120 Plug connectors;M01;Error;1;0,182815356;49.8s;0,294141035;0.0s
+073039;Turntable STOP selected by PLC;S250 Laser welding;M02;Error;1;0,182815356;48.5s;0,286514215;0.0s
+013008;Auxiliary control air valve does not switch off;S120 Plug connectors;M01;Error;1;0,182815356;48.2s;0,28514257;0.0s
+013010;Pressure switch behind main valve does not switch off;S120 Plug connectors;M01;Error;1;0,182815356;48.1s;0,284350326;0.0s
+013006;Main air valve does not switch off / is not ready to switch on;S120 Plug connectors;M01;Error;1;0,182815356;47.1s;0,278650904;0.0s
+013044;Position set specification outside the permissible range;S120 Plug connectors;M01;Warning;1;0,182815356;47.0s;0,278172011;0.0s
+013024;Tape control fault OPC communication;S120 Plug connectors;M01;Warning;1;0,182815356;45.9s;0,271089119;0.0s
+013013;Fuse 24V has triggered;S120 Plug connectors;M01;Error;1;0,182815356;45.7s;0,270184542;0.0s
+153008;Auxiliary control air valve does not switch off;S420 Plastic laser welding;M04;Error;1;0,182815356;45.1s;0,266459816;0.0s
+073011;Fuse 400V has triggered;S250 Laser welding;M02;Error;1;0,182815356;44.7s;0,264029876;0.0s
+013002;"Cycle stop by selecting ""Setup"" (key switch)";S120 Plug connectors;M01;Error;1;0,182815356;44.1s;0,260766306;0.0s
+013036;Start condition invalid (station type/loading);S120 Plug connectors;M01;Warning;1;0,182815356;43.3s;0,255764531;0.0s
+013004;Air supply pressure below minimum working threshold;S120 Plug connectors;M01;Error;1;0,182815356;43.2s;0,255516216;0.0s
+053025;Target station or workstate of the previous station Nok;S230 Move assembly;M02;Error;1;0,182815356;41.8s;0,247304082;0.0s
+013014;Fuse for switch cabinet cooling has triggered;S120 Plug connectors;M01;Error;1;0,182815356;41.5s;0,245175667;0.0s
+013021;Fault LineController response: Batch not OK;S120 Plug connectors;M01;Warning;1;0,182815356;40.8s;0,24116124;0.0s
+153001;Service door is open or light curtain not acknowledged;S420 Plastic laser welding;M04;Error;1;0,182815356;40.3s;0,238335177;0.0s
+153028;Turntable: Coding not plausible;S420 Plastic laser welding;M04;Warning;1;0,182815356;40.2s;0,237649355;0.0s
+053019;Fault LineController response: general error - see LC;S230 Move assembly;M02;Warning;1;0,182815356;40.1s;0,236851199;0.0s
+013045;Activation torque limitation failed;S120 Plug connectors;M01;Error;1;0,182815356;39.8s;0,235568238;0.0s
+013038;Idle operation manually active;S120 Plug connectors;M01;Warning;1;0,182815356;39.0s;0,230519165;0.0s
+153029;Turntable: Error of the coding sensors;S420 Plastic laser welding;M04;Warning;1;0,182815356;38.9s;0,229945675;0.0s
+013031;Selection of direction of rotation incorrect;S120 Plug connectors;M01;Error;1;0,182815356;36.7s;0,216915046;0.0s
+013043;No plausible result of screw units;S120 Plug connectors;M01;Error;1;0,182815356;36.2s;0,213982563;0.0s
+153026;Presence of component by data / sensor system implausible;S420 Plastic laser welding;M04;Warning;1;0,182815356;35.5s;0,210115942;0.0s
+053047;Screwdriver program number not in the permissible range;S230 Move assembly;M02;Warning;1;0,182815356;35.5s;0,209991785;0.0s
+013022;Door1 not locked;S120 Plug connectors;M01;Warning;1;0,182815356;35.3s;0,208637877;0.0s
+013005;Main air valve does not switch on;S120 Plug connectors;M01;Error;1;0,182815356;34.9s;0,206615882;0.0s
+013020;Fault LineController response: Material not OK;S120 Plug connectors;M01;Warning;1;0,182815356;34.9s;0,206521286;0.0s
+153021;Fault LineController response: Batch not OK;S420 Plastic laser welding;M04;Warning;1;0,182815356;34.7s;0,205167378;0.0s
+053031;Selection of direction of rotation incorrect;S230 Move assembly;M02;Error;1;0,182815356;34.0s;0,200756829;0.0s
+153002;"Cycle stop by selecting ""Setup"" (key switch)";S420 Plastic laser welding;M04;Error;1;0,182815356;33.4s;0,197564206;0.0s
+153044;Position set specification outside the permissible range;S420 Plastic laser welding;M04;Warning;1;0,182815356;33.2s;0,196163;0.0s
+013012;Fuse 230V has triggered;S120 Plug connectors;M01;Error;1;0,182815356;31.7s;0,187253218;0.0s
+013011;Fuse 400V has triggered;S120 Plug connectors;M01;Error;1;0,182815356;30.0s;0,177166896;0.0s
+013030;Turntable does not switch on!;S120 Plug connectors;M01;Error;1;0,182815356;29.9s;0,176581582;0.0s
+153009;Pressure switch behind main valve does not switch on;S420 Plastic laser welding;M04;Error;1;0,182815356;28.8s;0,170089917;0.0s
+103022;Door1 not locked;S320 Fluxing;M03;Warning;1;0,182815356;27.8s;0,1642486;0.0s
+153034;Data gripper 1 not plausible;S420 Plastic laser welding;M04;Warning;1;0,182815356;27.2s;0,160849048;0.0s
+013001;Service door is open or light curtain not acknowledged;S120 Plug connectors;M01;Error;1;0,182815356;26.0s;0,153996735;0.0s
+013025;Target station or workstate of the previous station Nok;S120 Plug connectors;M01;Error;1;0,182815356;25.9s;0,153086246;0.0s
