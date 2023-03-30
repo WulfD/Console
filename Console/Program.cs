@@ -11,3 +11,5 @@ switch(command)
         Console.WriteLine("Unbekannter Befehl");
         break;
 }
+
+Console.ReadLine();
